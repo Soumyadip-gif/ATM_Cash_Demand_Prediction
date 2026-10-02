@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>ATM Cash Demand Prediction</title>
+
+    <link rel="stylesheet"
+          href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+
+<body>
+
+    <div class="background">
+        <div class="orb orb-one"></div>
+        <div class="orb orb-two"></div>
+    </div>
+
+    <main class="app-container">
+
+        <!-- LEFT SECTION -->
+        <section class="hero-section">
+
+            <div class="brand">
+                <div class="brand-icon">₹</div>
+                <span>ATM•AI</span>
+            </div>
+
+            <div class="hero-content">
+
+                <span class="badge">
+                    MACHINE LEARNING SYSTEM
+                </span>
+
+                <h1>
+                    ATM Cash
+                    <span>Demand Prediction</span>
+                </h1>
+
+                <p>
+                    Predict the expected cash requirement of an ATM
+                    using historical demand patterns and operational
+                    information.
+                </p>
+
+                <div class="feature-list">
+
+                    <div class="feature-card">
+                        <div class="feature-icon">01</div>
+                        <div>
+                            <strong>Smart Prediction</strong>
+                            <small>XGBoost-powered forecasting</small>
+                        </div>
+                    </div>
+
+                    <div class="feature-card">
+                        <div class="feature-icon">02</div>
+                        <div>
+                            <strong>ATM Specific</strong>
+                            <small>Uses ATM-level historical patterns</small>
+                        </div>
+                    </div>
+
+                    <div class="feature-card">
+                        <div class="feature-icon">03</div>
+                        <div>
+                            <strong>Instant Result</strong>
+                            <small>Generate predictions in seconds</small>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="footer-text">
+                AI / ML Project • ATM Cash Management
+            </div>
+
+        </section>
+
+
+        <!-- RIGHT SECTION -->
+        <section class="prediction-section">
+
+            <div class="panel-header">
+
+                <div>
+                    <span class="panel-label">
+                        PREDICTION ENGINE
+                    </span>
+
+                    <h2>
+                        Predict Cash Demand
+                    </h2>
+
+                    <p>
+                        Enter the six required parameters.
+                    </p>
+                </div>
+
+                <div class="status">
+                    <span></span>
+                    MODEL ONLINE
+                </div>
+
+            </div>
+
+
+            <form id="predictionForm"
+                  action="/predict"
+                  method="POST">
+
+                <!-- ATM ID -->
+
+                <div class="input-group">
+
+                    <label for="atm_id">
+                        ATM ID
+                    </label>
+
+                    <input
+                        type="text"
+                        id="atm_id"
+                        name="atm_id"
+                        placeholder="Example: 1009104"
+                        required
+                    >
+
+                </div>
+
+
+                <!-- WEEKDAY + MONTH -->
+
+                <div class="input-row">
+
+                    <div class="input-group">
+
+                        <label for="weekday">
+                            Weekday
+                        </label>
+
+                        <select
+                            id="weekday"
+                            name="weekday"
+                            required
+                        >
+
+                            <option value="">
+                                Select day
+                            </option>
+
+                            <option value="Monday">Monday</option>
+                            <option value="Tuesday">Tuesday</option>
+                            <option value="Wednesday">Wednesday</option>
+                            <option value="Thursday">Thursday</option>
+                            <option value="Friday">Friday</option>
+                            <option value="Saturday">Saturday</option>
+                            <option value="Sunday">Sunday</option>
+
+                        </select>
+
+                    </div>
+
+
+                    <div class="input-group">
+
+                        <label for="month">
+                            Month
+                        </label>
+
+                        <select
+                            id="month"
+                            name="month"
+                            required
+                        >
+
+                            <option value="">
+                                Select month
+                            </option>
+
+                            <option value="1">January</option>
+                            <option value="2">February</option>
+                            <option value="3">March</option>
+                            <option value="4">April</option>
+                            <option value="5">May</option>
+                            <option value="6">June</option>
+                            <option value="7">July</option>
+                            <option value="8">August</option>
+                            <option value="9">September</option>
+                            <option value="10">October</option>
+                            <option value="11">November</option>
+                            <option value="12">December</option>
+
+                        </select>
+
+                    </div>
+
+                </div>
+
+
+                <!-- PREVIOUS DAY -->
+
+                <div class="input-group">
+
+                    <label for="previous_day">
+                        Previous Day Cash Demand
+                    </label>
+
+                    <div class="input-wrapper">
+
+                        <span class="input-symbol">₹</span>
+
+                        <input
+                            type="number"
+                            id="previous_day"
+                            name="previous_day"
+                            placeholder="150000"
+                            min="0"
+                            step="0.01"
+                            required
+                        >
+
+                    </div>
+
+                </div>
+
+
+                <!-- 7 DAY AVERAGE -->
+
+                <div class="input-group">
+
+                    <label for="previous_7_day_avg">
+                        Previous 7-Day Average Demand
+                    </label>
+
+                    <div class="input-wrapper">
+
+                        <span class="input-symbol">₹</span>
+
+                        <input
+                            type="number"
+                            id="previous_7_day_avg"
+                            name="previous_7_day_avg"
+                            placeholder="140000"
+                            min="0"
+                            step="0.01"
+                            required
+                        >
+
+                    </div>
+
+                </div>
+
+
+                <!-- WORKING DAY -->
+
+                <div class="input-group">
+
+                    <label for="working_day">
+                        Working Day
+                    </label>
+
+                    <select
+                        id="working_day"
+                        name="working_day"
+                        required
+                    >
+
+                        <option value="">
+                            Select type
+                        </option>
+
+                        <option value="Yes">
+                            Yes — Working Day
+                        </option>
+
+                        <option value="No">
+                            No — Holiday
+                        </option>
+
+                    </select>
+
+                </div>
+
+
+                <!-- BUTTON -->
+
+                <button
+                    type="submit"
+                    id="predictButton"
+                    class="predict-button"
+                >
+
+                    <span class="button-text">
+                        Predict Cash Demand
+                    </span>
+
+                    <span class="button-arrow">
+                        →
+                    </span>
+
+                </button>
+
+            </form>
+
+
+            <!-- RESULT -->
+
+            {% if prediction %}
+
+            <div class="result-card">
+
+                <div class="result-icon">
+                    ₹
+                </div>
+
+                <div class="result-content">
+
+                    <span>
+                        ESTIMATED CASH DEMAND
+                    </span>
+
+                    <strong>
+                        {{ prediction }}
+                    </strong>
+
+                </div>
+
+            </div>
+
+            {% endif %}
+
+
+            <!-- ERROR -->
+
+            {% if error %}
+
+            <div class="error-card">
+                <strong>Prediction Error</strong>
+                <span>{{ error }}</span>
+            </div>
+
+            {% endif %}
+
+        </section>
+
+    </main>
+
+
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+
+</body>
+
+</html>

@@ -1,0 +1,4006 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 2992
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.278 0.333 0.412 rg
+232.1349999999999909 714.3309448818897636 Td
+(A PROJECT REPORT ON) Tj
+ET
+BT
+/F10 22 Tf
+25.2999999999999972 TL
+0.059 0.09 0.165 rg
+76.5399999999999068 677.480551181102328 Td
+(ATM CASH DEMAND PREDICTION USING) Tj
+105.0500000000000398 -25.2999999999999972 Td
+(MACHINE LEARNING) Tj
+ET
+BT
+/F11 12 Tf
+13.7999999999999989 TL
+0.2 0.255 0.333 rg
+133.9599999999998943 615.1183464566928478 Td
+(Submitted in partial fulfillment of the requirements for the degree of) Tj
+ET
+BT
+/F10 15 Tf
+17.25 TL
+0.059 0.09 0.165 rg
+161.664999999999992 586.7718897637794271 Td
+(Bachelor of Computer Applications \(BCA\)) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.278 0.333 0.412 rg
+219.3199999999999363 564.0947244094487587 Td
+(Academic Session: 2025 – 2026) Tj
+ET
+0.8 0.84 0.88 RG
+1.1338582677165356 w
+56.6929133858267775 501.7325196850393354 481.8941732283464034 -155.9055118110236435 re
+S
+BT
+/F2 10 Tf
+11.5 TL
+0.392 0.455 0.545 rg
+73.7007874015748143 473.3860629921259147 Td
+(SUBMITTED BY:) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.392 0.455 0.545 rg
+314.6478740157480161 473.3860629921259147 Td
+(UNDER THE GUIDANCE OF:) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+73.7007874015748143 450.7088976377952463 Td
+(Soumyadip Porel) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+314.6478740157480161 450.7088976377952463 Td
+([Insert Project Guide / Supervisor Name]) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.2 0.255 0.333 rg
+73.7007874015748143 428.0317322834645211 Td
+(Roll No: [Insert University Roll Number, e.g., 12345678001]) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.2 0.255 0.333 rg
+73.7007874015748143 408.1892125984251152 Td
+(Reg No: [Insert Registration Number, e.g., REG-2023-BCA-042]) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.2 0.255 0.333 rg
+73.7007874015748143 388.3466929133857661 Td
+(Bachelor of Computer Applications \(BCA\)) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.2 0.255 0.333 rg
+314.6478740157480161 428.0317322834645211 Td
+(Assistant Professor / Head of Department) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.2 0.255 0.333 rg
+314.6478740157480161 408.1892125984251152 Td
+(Department of Computer Applications & Information Technology) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.2 0.255 0.333 rg
+314.6478740157480161 388.3466929133857661 Td
+([Insert College / Institute Name, e.g., St. Xavier's College / Heritage Institute / University Department]) Tj
+ET
+BT
+/F10 13 Tf
+14.9499999999999993 TL
+0.059 0.09 0.165 rg
+114.7299999999999471 232.4411811023621794 Td
+(Department of Computer Applications & Information Technology) Tj
+ET
+BT
+/F9 12 Tf
+13.7999999999999989 TL
+0.2 0.255 0.333 rg
+51.219999999999942 206.9293700787401349 Td
+([Insert College / Institute Name, e.g., St. Xavier's College / Heritage Institute / University Department]) Tj
+ET
+BT
+/F9 12 Tf
+13.7999999999999989 TL
+0.2 0.255 0.333 rg
+222.6999999999999886 181.4175590551179766 Td
+(Date of Submission: May 2026) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 3218
+>>
+stream
+1.1338582677165356 w
+0.8 0.84 0.88 RG
+BT
+/F2 10 Tf
+11.5 TL
+0.145 0.388 0.922 rg
+56.6929133858267775 771.0238582677164914 Td
+(CHAPTER 2) Tj
+ET
+BT
+/F10 16 Tf
+18.3999999999999986 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 754.0159842519684616 Td
+(Certificate) Tj
+ET
+0.8 0.84 0.88 RG
+1.1338582677165356 w
+56.6929133858267775 742.6774015748030706 m
+538.5870866141731312 742.6774015748030706 l
+S
+BT
+/F9 10.5 Tf
+12.0749999999999993 TL
+0.118 0.161 0.231 rg
+56.6929133858267775 720.0002362204724022 Td
+(Certificate of Recommendation) Tj
+T* (    ) Tj
+T* (  ) Tj
+T* () Tj
+T* (  ) Tj
+T* (    This is to certify that the project report entitled "ATM Cash Demand Prediction Using Machine Learning") Tj
+T* (submitted by ) Tj
+T* (    Soumyadip Porel \(Roll No: [Insert University Roll Number, e.g., 12345678001], Registration No: [Insert) Tj
+T* (Registration Number, e.g., REG-2023-BCA-042]\) ) Tj
+T* (    in partial fulfillment of the requirements for the award of the degree of Bachelor of Computer Applications) Tj
+T* (\(BCA\) from ) Tj
+T* (    [Insert College / Institute Name, e.g., St. Xavier's College / Heritage Institute / University Department], is an) Tj
+T* (authentic record of bonafide project work carried out under my direct supervision and guidance ) Tj
+T* (    during the academic session 2025 – 2026.) Tj
+T* (  ) Tj
+T* () Tj
+T* (  ) Tj
+T* (    To the best of my knowledge and belief, the matter embodied in this project report has not been submitted) Tj
+T* (previously to any other university or institute ) Tj
+T* (    for the award of any degree, diploma, or fellowship. The experimental results, machine learning pipeline) Tj
+T* (utilizing XGBoost Regressor, and Flask web deployment ) Tj
+T* (    described in this report represent the independent effort of the student.) Tj
+T* (  ) Tj
+T* () Tj
+T* (  ) Tj
+T* (    ) Tj
+T* (      [Insert Project Guide / Supervisor Name]) Tj
+T* (      Assistant Professor / Head of Department) Tj
+T* (      Department of Computer Applications & Information Technology) Tj
+T* (      \(Project Supervisor\)) Tj
+T* (    ) Tj
+T* (    ) Tj
+T* (      [Head of Department]) Tj
+T* (      Department of Computer Applications) Tj
+T* (      [Insert College / Institute Name, e.g., St. Xavier's College / Heritage Institute / University Department]) Tj
+T* (      \(Department Seal\)) Tj
+T* (    ) Tj
+T* (  ) Tj
+T* () Tj
+T* (  ) Tj
+T* (    Place: [City / Campus]) Tj
+T* (    Date: May 2026) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 807.8742519685039269 Td
+(ATM Cash Demand Prediction Using Machine Learning — BCA Project Report) Tj
+ET
+0.89 0.91 0.94 RG
+0.8503937007874016 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 34.0157480314960665 m
+538.5870866141731312 34.0157480314960665 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 22.6771653543306684 Td
+(Soumyadip Porel \([Insert University Roll Number, e.g., 12345678001]\) • [Insert College / Institute Name, e.g., St. Xavier's College / Heritage Institute / University Department]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+493.5470866141731676 22.6771653543306684 Td
+(Page 2 of 39) Tj
+ET
+endstream
+endobj
+7 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 8 0 R
+>>
+endobj
+8 0 obj
+<<
+/Length 3237
+>>
+stream
+1.1338582677165356 w
+0.8 0.84 0.88 RG
+BT
+/F2 10 Tf
+11.5 TL
+0.145 0.388 0.922 rg
+56.6929133858267775 771.0238582677164914 Td
+(CHAPTER 3) Tj
+ET
+BT
+/F10 16 Tf
+18.3999999999999986 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 754.0159842519684616 Td
+(Declaration) Tj
+ET
+0.8 0.84 0.88 RG
+1.1338582677165356 w
+56.6929133858267775 742.6774015748030706 m
+538.5870866141731312 742.6774015748030706 l
+S
+BT
+/F9 10.5 Tf
+12.0749999999999993 TL
+0.118 0.161 0.231 rg
+56.6929133858267775 720.0002362204724022 Td
+(Student Declaration) Tj
+T* (    ) Tj
+T* (  ) Tj
+T* () Tj
+T* (  ) Tj
+T* (    I, Soumyadip Porel, hereby declare that the project entitled ) Tj
+T* (    "ATM Cash Demand Prediction Using Machine Learning", submitted to the ) Tj
+T* (    Department of Computer Applications & Information Technology, [Insert College / Institute Name, e.g., St.) Tj
+T* (Xavier's College / Heritage Institute / University Department], in partial fulfillment ) Tj
+T* (    of the degree of Bachelor of Computer Applications \(BCA\), is my original work.) Tj
+T* (  ) Tj
+T* () Tj
+T* (  ) Tj
+T* (    I confirm that this report does not contain any work previously submitted for the award of any other degree or) Tj
+T* (diploma in any university or institute. ) Tj
+T* (    Wherever literature, datasets, open-source libraries, or algorithms \(such as XGBoost, Scikit-learn, Flask,) Tj
+T* (Pandas, and NumPy\) have been referenced, ) Tj
+T* (    due credit and proper citations have been given in the References chapter.) Tj
+T* (  ) Tj
+T* () Tj
+T* (  ) Tj
+T* (    I also confirm that the performance metrics reported herein—specifically the evaluation on 114,085 test records) Tj
+T* ( y i e l d i n g   a   M e a n   A b s o l u t e   E r r o r   \( M A E \)   o f   ¹ 9 1 , 5 1 2 . 2 1 ,  ) Tj
+T* (         R o o t   M e a n   S q u a r e d   E r r o r   \( R M S E \)   o f   ¹ 1 5 8 , 9 0 2 . 7 8 ,   a n d   a n   R ²   s c o r e   o f   0 . 4 7 0 3 — a r e   t h e   h o n e s t   f i n d i n g s   d e r i v e d) Tj
+T* (from empirical model validation without data fabrication.) Tj
+T* (  ) Tj
+T* () Tj
+T* (  ) Tj
+T* (    ) Tj
+T* (      Place: [City / Campus]) Tj
+T* (      Date: May 2026) Tj
+T* (    ) Tj
+T* (    ) Tj
+T* (      ) Tj
+T* (      Soumyadip Porel) Tj
+T* (      Roll No: [Insert University Roll Number, e.g., 12345678001]) Tj
+T* (      Reg No: [Insert Registration Number, e.g., REG-2023-BCA-042]) Tj
+T* (      Bachelor of Computer Applications \(BCA\)) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 807.8742519685039269 Td
+(ATM Cash Demand Prediction Using Machine Learning — BCA Project Report) Tj
+ET
+0.89 0.91 0.94 RG
+0.8503937007874016 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 34.0157480314960665 m
+538.5870866141731312 34.0157480314960665 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 22.6771653543306684 Td
+(Soumyadip Porel \([Insert University Roll Number, e.g., 12345678001]\) • [Insert College / Institute Name, e.g., St. Xavier's College / Heritage Institute / University Department]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+493.5470866141731676 22.6771653543306684 Td
+(Page 3 of 39) Tj
+ET
+endstream
+endobj
+9 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 10 0 R
+>>
+endobj
+10 0 obj
+<<
+/Length 3252
+>>
+stream
+1.1338582677165356 w
+0.8 0.84 0.88 RG
+BT
+/F2 10 Tf
+11.5 TL
+0.145 0.388 0.922 rg
+56.6929133858267775 771.0238582677164914 Td
+(CHAPTER 4) Tj
+ET
+BT
+/F10 16 Tf
+18.3999999999999986 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 754.0159842519684616 Td
+(Acknowledgement) Tj
+ET
+0.8 0.84 0.88 RG
+1.1338582677165356 w
+56.6929133858267775 742.6774015748030706 m
+538.5870866141731312 742.6774015748030706 l
+S
+BT
+/F9 10.5 Tf
+12.0749999999999993 TL
+0.118 0.161 0.231 rg
+56.6929133858267775 720.0002362204724022 Td
+(Acknowledgement) Tj
+T* (    ) Tj
+T* (  ) Tj
+T* () Tj
+T* (  ) Tj
+T* (    The satisfaction that accompanies the successful completion of any project would be incomplete without) Tj
+T* (expressing gratitude to the individuals ) Tj
+T* (    who made it possible. I take this opportunity to convey my deepest respect and gratitude to all who supported) Tj
+T* (me during the tenure of this BCA final-year project.) Tj
+T* (  ) Tj
+T* () Tj
+T* (  ) Tj
+T* (    First and foremost, I express my earnest gratitude to my esteemed project guide, [Insert Project Guide /) Tj
+T* (Supervisor Name], Assistant Professor / Head of Department, ) Tj
+T* (    for their invaluable guidance, constructive critiques, and continuous encouragement throughout the lifecycle of) Tj
+T* (this research and software development work. ) Tj
+T* (    Their profound insights into Machine Learning workflows, feature engineering, and statistical modeling were) Tj
+T* (pivotal in shaping this project.) Tj
+T* (  ) Tj
+T* () Tj
+T* (  ) Tj
+T* (    I am immensely thankful to the Head of the Department and all faculty members of Department of Computer) Tj
+T* (Applications & Information Technology, ) Tj
+T* (    [Insert College / Institute Name, e.g., St. Xavier's College / Heritage Institute / University Department], for) Tj
+T* (providing the necessary computational lab infrastructure, academic guidance, and stimulating environment ) Tj
+T* (    essential for technical exploration and experimentation.) Tj
+T* (  ) Tj
+T* () Tj
+T* (  ) Tj
+T* (    Special appreciation is extended to my family and fellow classmates for their unwavering encouragement,) Tj
+T* (patience, and moral support during long hours of data analysis, model tuning, and documentation.) Tj
+T* (  ) Tj
+T* () Tj
+T* (  ) Tj
+T* (    Soumyadip Porel) Tj
+T* (    Bachelor of Computer Applications \(BCA\)) Tj
+T* (    [Insert College / Institute Name, e.g., St. Xavier's College / Heritage Institute / University Department]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 807.8742519685039269 Td
+(ATM Cash Demand Prediction Using Machine Learning — BCA Project Report) Tj
+ET
+0.89 0.91 0.94 RG
+0.8503937007874016 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 34.0157480314960665 m
+538.5870866141731312 34.0157480314960665 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 22.6771653543306684 Td
+(Soumyadip Porel \([Insert University Roll Number, e.g., 12345678001]\) • [Insert College / Institute Name, e.g., St. Xavier's College / Heritage Institute / University Department]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+493.5470866141731676 22.6771653543306684 Td
+(Page 4 of 39) Tj
+ET
+endstream
+endobj
+11 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 12 0 R
+>>
+endobj
+12 0 obj
+<<
+/Length 4227
+>>
+stream
+1.1338582677165356 w
+0.8 0.84 0.88 RG
+BT
+/F2 10 Tf
+11.5 TL
+0.145 0.388 0.922 rg
+56.6929133858267775 771.0238582677164914 Td
+(CHAPTER 5) Tj
+ET
+BT
+/F10 16 Tf
+18.3999999999999986 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 754.0159842519684616 Td
+(Abstract) Tj
+ET
+0.8 0.84 0.88 RG
+1.1338582677165356 w
+56.6929133858267775 742.6774015748030706 m
+538.5870866141731312 742.6774015748030706 l
+S
+BT
+/F9 10.5 Tf
+12.0749999999999993 TL
+0.118 0.161 0.231 rg
+56.6929133858267775 720.0002362204724022 Td
+(Abstract) Tj
+T* (    ) Tj
+T* (  ) Tj
+T* () Tj
+T* (  ) Tj
+T* (    Automated Teller Machines \(ATMs\) serve as the primary physical bridge between commercial banking systems) Tj
+T* (and retail depositors. Managing cash replenishment across a decentralized network of ATMs poses a significant) Tj
+T* (financial optimization dilemma for banking institutions. Overstocking an ATM incurs steep opportunity costs due) Tj
+T* (to idle cash, increased insurance premiums, and vulnerability to theft. Conversely, understocking leads to) Tj
+T* (catastrophic cash-out events, resulting in customer churn, regulatory penalties, and brand degradation.) Tj
+T* (  ) Tj
+T* () Tj
+T* (  ) Tj
+T* (    This project presents an end-to-end Machine Learning solution designed to forecast daily ATM cash withdrawal) Tj
+T* (demand. The predictive engine is formulated around an optimized XGBoost Regressor \(Extreme Gradient) Tj
+T* (Boosting\) model, utilizing six engineered input features: ATM ID, Weekday, Month, Previous Day Cash Demand,) Tj
+T* (Previous 7-Day Average Demand, and a Working Day / Holiday indicator. The modeling pipeline was developed) Tj
+T* (on an extensive real-world transaction dataset comprising 570,425 records following rigorous data cleaning,) Tj
+T* (date-time transformation, and rolling-window feature engineering.) Tj
+T* (  ) Tj
+T* () Tj
+T* (  ) Tj
+T* (    The dataset was partitioned into an 80:20 training and testing split \(456,340 training records and 114,085) Tj
+T* (testing records\). On the unseen evaluation set, the trained XGBoost model achieved a Mean Absolute Error) Tj
+T* ( \( M A E \)   o f   ¹ 9 1 , 5 1 2 . 2 1 ,   a   R o o t   M e a n   S q u a r e d   E r r o r   \( R M S E \)   o f   ¹ 1 5 8 , 9 0 2 . 7 8 ,   a n d   a   c o e f f i c i e n t   o f   d e t e r m i n a t i o n) Tj
+T* (\(R² score\) of 0.4703. These results demonstrate moderate and stable predictive capability on baseline daily) Tj
+T* (operational cycles, while realistically reflecting the elevated residuals inherent to volatile, non-linear high-demand) Tj
+T* (periods such as regional festivals and monthly salary disbursement spikes.) Tj
+T* (  ) Tj
+T* () Tj
+T* (  ) Tj
+T* (    The trained model is serialized using Joblib and integrated into a lightweight Flask web application with an) Tj
+T* (intuitive HTML5, CSS3, and JavaScript user interface. The deployed system allows bank treasury managers and) Tj
+T* (cash-in-transit \(CIT\) logistics teams to supply operational parameters and instantaneously receive cash) Tj
+T* (requirement forecasts, recommended cassette loading figures, and confidence thresholds to minimize both idle) Tj
+T* (liquidity and cash-out incidents.) Tj
+T* (  ) Tj
+T* () Tj
+T* (  ) Tj
+T* (    Keywords: ) Tj
+T* (    Automated Teller Machines, Cash Demand Forecasting, XGBoost Regressor, Supervised Machine Learning,) Tj
+T* (Feature Engineering, Rolling Averages, Flask Web Application, Financial Analytics.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 807.8742519685039269 Td
+(ATM Cash Demand Prediction Using Machine Learning — BCA Project Report) Tj
+ET
+0.89 0.91 0.94 RG
+0.8503937007874016 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 34.0157480314960665 m
+538.5870866141731312 34.0157480314960665 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 22.6771653543306684 Td
+(Soumyadip Porel \([Insert University Roll Number, e.g., 12345678001]\) • [Insert College / Institute Name, e.g., St. Xavier's College / Heritage Institute / University Department]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+493.5470866141731676 22.6771653543306684 Td
+(Page 5 of 39) Tj
+ET
+endstream
+endobj
+13 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 14 0 R
+>>
+endobj
+14 0 obj
+<<
+/Length 3763
+>>
+stream
+1.1338582677165356 w
+0.8 0.84 0.88 RG
+BT
+/F2 10 Tf
+11.5 TL
+0.145 0.388 0.922 rg
+56.6929133858267775 771.0238582677164914 Td
+(CHAPTER 6) Tj
+ET
+BT
+/F10 16 Tf
+18.3999999999999986 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 754.0159842519684616 Td
+(Introduction) Tj
+ET
+0.8 0.84 0.88 RG
+1.1338582677165356 w
+56.6929133858267775 742.6774015748030706 m
+538.5870866141731312 742.6774015748030706 l
+S
+BT
+/F9 10.5 Tf
+12.0749999999999993 TL
+0.118 0.161 0.231 rg
+56.6929133858267775 720.0002362204724022 Td
+(In contemporary financial logistics, the cash distribution network operated by commercial retail banks represents) Tj
+T* (both a vital customer service touchpoint and a substantial operational expenditure. Automated Teller Machines) Tj
+T* (\(ATMs\) require regular replenishment by specialized Cash-in-Transit \(CIT\) logistics providers who transport) Tj
+T* (physical currency via armored vehicles under strict regulatory and security protocols.) Tj
+T* (  ) Tj
+T* () Tj
+T* (  6.1 Background and Context) Tj
+T* (  ) Tj
+T* (    Commercial banks face a perpetual trade-off between liquidity maintenance and cash management efficiency:) Tj
+T* (  ) Tj
+T* (  ) Tj
+T* (    Cost of Idle Cash: Physical currency deposited inside ATM cassettes earns zero interest. Given the benchmark) Tj
+T* (reserve rates, holding excess cash across thousands of ATMs translates into millions of rupees in lost interest) Tj
+T* (yields and escalated transit insurance premiums.) Tj
+T* (    Cash-Out Penalty: If an ATM depletes its currency before the scheduled replenishment cycle, bank customers) Tj
+T* (encounter service outages. In heavily competitive retail banking markets, repeated cash-out events damage brand) Tj
+T* (equity and may incur central bank non-compliance penalties.) Tj
+T* (    Logistical Routing Costs: Disagreeable replenishment runs, emergency unscheduled refills, and suboptimal) Tj
+T* (vehicle routing inflate fuel and security personnel costs.) Tj
+T* (  ) Tj
+T* () Tj
+T* (  6.2 The Role of Predictive Analytics) Tj
+T* (  ) Tj
+T* (    Traditional bank operations rely on rule-of-thumb heuristics—such as topping up machines to maximum) Tj
+T* (cassette capacity on fixed calendar days \(e.g., every Monday and Friday\) or replicating the prior week's) Tj
+T* (withdrawal numbers. These static heuristics fail to adapt to non-linear calendar anomalies, dynamic festival) Tj
+T* (calendars, sudden changes in neighborhood spending habits, and rolling weekly velocity.) Tj
+T* (  ) Tj
+T* (  ) Tj
+T* (    Machine Learning algorithms, particularly gradient-boosted decision trees, excel at learning non-linear) Tj
+T* (interactions across temporal indices \(day of week, month\), situational indicators \(working day vs. holiday\), and) Tj
+T* (historical time-series lags \(yesterday's demand and 7-day moving averages\). By learning from over half a million) Tj
+T* (historical records, the predictive model provides proactive rather than reactive cash scheduling guidance.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 807.8742519685039269 Td
+(ATM Cash Demand Prediction Using Machine Learning — BCA Project Report) Tj
+ET
+0.89 0.91 0.94 RG
+0.8503937007874016 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 34.0157480314960665 m
+538.5870866141731312 34.0157480314960665 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 22.6771653543306684 Td
+(Soumyadip Porel \([Insert University Roll Number, e.g., 12345678001]\) • [Insert College / Institute Name, e.g., St. Xavier's College / Heritage Institute / University Department]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+493.5470866141731676 22.6771653543306684 Td
+(Page 6 of 39) Tj
+ET
+endstream
+endobj
+15 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 16 0 R
+>>
+endobj
+16 0 obj
+<<
+/Length 3001
+>>
+stream
+1.1338582677165356 w
+0.8 0.84 0.88 RG
+BT
+/F2 10 Tf
+11.5 TL
+0.145 0.388 0.922 rg
+56.6929133858267775 771.0238582677164914 Td
+(CHAPTER 7) Tj
+ET
+BT
+/F10 16 Tf
+18.3999999999999986 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 754.0159842519684616 Td
+(Problem Statement) Tj
+ET
+0.8 0.84 0.88 RG
+1.1338582677165356 w
+56.6929133858267775 742.6774015748030706 m
+538.5870866141731312 742.6774015748030706 l
+S
+BT
+/F9 10.5 Tf
+12.0749999999999993 TL
+0.118 0.161 0.231 rg
+56.6929133858267775 720.0002362204724022 Td
+("How can commercial banks accurately predict the daily cash demand of individual ATMs using historical) Tj
+T* (withdrawal patterns, calendar attributes, and short-term rolling velocity, so as to minimize idle cash holding costs) Tj
+T* (and completely prevent service outages?") Tj
+T* (  ) Tj
+T* () Tj
+T* (  ) Tj
+T* (    In specific operational terms, the challenges being solved in this project encompass:) Tj
+T* (  ) Tj
+T* (  ) Tj
+T* (    ) Tj
+T* (      Non-Stationary Demand Patterns: Cash withdrawal is inherently irregular. A kiosk situated near a commercial) Tj
+T* (corporate park experiences high demand Monday through Friday and low demand on weekends. Conversely, a) Tj
+T* (kiosk in a tourist area or shopping district spikes on Saturdays and Sundays.) Tj
+T* (    ) Tj
+T* (    ) Tj
+T* (      Calendar and Holiday Volatility: National holidays, bank holidays, and festive seasons trigger sudden surges in) Tj
+T* (cash withdrawals. Static weekly schedules cannot accommodate fluctuating calendar dates.) Tj
+T* (    ) Tj
+T* (    ) Tj
+T* (      Information Lag in Kiosk Monitoring: While ATM telemetry reports current cassette balance, it lacks) Tj
+T* ( p r e d i c t i v e   f o r e s i g h t   r e g a r d i n g   w h e t h e r   t h e   r e m a i n i n g   ¹ 2 , 0 0 , 0 0 0   w i l l   l a s t   4   h o u r s   o r   3   d a y s   u n d e r   p r e v a i l i n g   l o c a l) Tj
+T* (conditions.) Tj
+T* (    ) Tj
+T* (    ) Tj
+T* (      High Variance in Surge Withdrawals: Extreme high-demand episodes \(e.g., Diwali, Eid, Christmas, or) Tj
+T* (month-beginning pension/salary credit days\) deviate sharply from regular distributions, presenting significant) Tj
+T* (forecasting challenges.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 807.8742519685039269 Td
+(ATM Cash Demand Prediction Using Machine Learning — BCA Project Report) Tj
+ET
+0.89 0.91 0.94 RG
+0.8503937007874016 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 34.0157480314960665 m
+538.5870866141731312 34.0157480314960665 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 22.6771653543306684 Td
+(Soumyadip Porel \([Insert University Roll Number, e.g., 12345678001]\) • [Insert College / Institute Name, e.g., St. Xavier's College / Heritage Institute / University Department]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+493.5470866141731676 22.6771653543306684 Td
+(Page 7 of 39) Tj
+ET
+endstream
+endobj
+17 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 18 0 R
+>>
+endobj
+18 0 obj
+<<
+/Length 1187
+>>
+stream
+1.1338582677165356 w
+0.8 0.84 0.88 RG
+BT
+/F2 10 Tf
+11.5 TL
+0.145 0.388 0.922 rg
+56.6929133858267775 771.0238582677164914 Td
+(CHAPTER 8) Tj
+ET
+BT
+/F10 16 Tf
+18.3999999999999986 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 754.0159842519684616 Td
+(Objectives) Tj
+ET
+0.8 0.84 0.88 RG
+1.1338582677165356 w
+56.6929133858267775 742.6774015748030706 m
+538.5870866141731312 742.6774015748030706 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 807.8742519685039269 Td
+(ATM Cash Demand Prediction Using Machine Learning — BCA Project Report) Tj
+ET
+0.89 0.91 0.94 RG
+0.8503937007874016 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 34.0157480314960665 m
+538.5870866141731312 34.0157480314960665 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 22.6771653543306684 Td
+(Soumyadip Porel \([Insert University Roll Number, e.g., 12345678001]\) • [Insert College / Institute Name, e.g., St. Xavier's College / Heritage Institute / University Department]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+493.5470866141731676 22.6771653543306684 Td
+(Page 8 of 39) Tj
+ET
+endstream
+endobj
+19 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 20 0 R
+>>
+endobj
+20 0 obj
+<<
+/Length 2616
+>>
+stream
+1.1338582677165356 w
+0.8 0.84 0.88 RG
+BT
+/F9 10.5 Tf
+12.0749999999999993 TL
+0.118 0.161 0.231 rg
+56.6929133858267775 771.0238582677164914 Td
+(The primary goal of this project is to develop and deploy an automated, data-driven machine learning system) Tj
+T* (capable of estimating the daily cash requirement for individual ATMs. The specific objectives are outlined below:) Tj
+T* (  ) Tj
+T* () Tj
+T* (  ) Tj
+T* (    ) Tj
+T* (      ) Tj
+T* (        1) Tj
+T* (        Data Processing at Scale) Tj
+T* (      ) Tj
+T* (      Clean, validate, and preprocess a large-scale transaction dataset comprising over 570,000 records across) Tj
+T* (diverse ATM sites.) Tj
+T* (    ) Tj
+T* () Tj
+T* (    ) Tj
+T* (      ) Tj
+T* (        2) Tj
+T* (        Feature Engineering) Tj
+T* (      ) Tj
+T* (      Formulate 6 key predictive indicators: ATM ID, Weekday, Month, Previous Day Demand, Previous 7-Day) Tj
+T* (Average, and Working Day/Holiday status.) Tj
+T* (    ) Tj
+T* () Tj
+T* (    ) Tj
+T* (      ) Tj
+T* (        3) Tj
+T* (        Model Training with XGBoost) Tj
+T* (      ) Tj
+T* (      Train an XGBoost Regressor on 456,340 training records using gradient boosted decision trees to minimize) Tj
+T* (mean squared errors.) Tj
+T* (    ) Tj
+T* () Tj
+T* (    ) Tj
+T* (      ) Tj
+T* (        4) Tj
+T* (        Rigorous Empirical Evaluation) Tj
+T* (      ) Tj
+T* (      Benchmark model generalization across 114,085 unseen test records utilizing MAE, RMSE, and R² metrics) Tj
+T* (with honest error analysis.) Tj
+T* (    ) Tj
+T* () Tj
+T* (    ) Tj
+T* (      ) Tj
+T* (        5) Tj
+T* (        Deployment via Flask Web Application) Tj
+T* (      ) Tj
+T* (      Package the trained model into a production-ready Flask microservice with an intuitive web dashboard for) Tj
+T* (real-time interactive inference by bank treasury personnel.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 807.8742519685039269 Td
+(ATM Cash Demand Prediction Using Machine Learning — BCA Project Report) Tj
+ET
+0.89 0.91 0.94 RG
+0.8503937007874016 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 34.0157480314960665 m
+538.5870866141731312 34.0157480314960665 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 22.6771653543306684 Td
+(Soumyadip Porel \([Insert University Roll Number, e.g., 12345678001]\) • [Insert College / Institute Name, e.g., St. Xavier's College / Heritage Institute / University Department]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+493.5470866141731676 22.6771653543306684 Td
+(Page 9 of 39) Tj
+ET
+endstream
+endobj
+21 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 22 0 R
+>>
+endobj
+22 0 obj
+<<
+/Length 1193
+>>
+stream
+1.1338582677165356 w
+0.8 0.84 0.88 RG
+BT
+/F2 10 Tf
+11.5 TL
+0.145 0.388 0.922 rg
+56.6929133858267775 771.0238582677164914 Td
+(CHAPTER 9) Tj
+ET
+BT
+/F10 16 Tf
+18.3999999999999986 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 754.0159842519684616 Td
+(Existing System) Tj
+ET
+0.8 0.84 0.88 RG
+1.1338582677165356 w
+56.6929133858267775 742.6774015748030706 m
+538.5870866141731312 742.6774015748030706 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 807.8742519685039269 Td
+(ATM Cash Demand Prediction Using Machine Learning — BCA Project Report) Tj
+ET
+0.89 0.91 0.94 RG
+0.8503937007874016 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 34.0157480314960665 m
+538.5870866141731312 34.0157480314960665 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 22.6771653543306684 Td
+(Soumyadip Porel \([Insert University Roll Number, e.g., 12345678001]\) • [Insert College / Institute Name, e.g., St. Xavier's College / Heritage Institute / University Department]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+489.1470866141731904 22.6771653543306684 Td
+(Page 10 of 39) Tj
+ET
+endstream
+endobj
+23 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 24 0 R
+>>
+endobj
+24 0 obj
+<<
+/Length 3046
+>>
+stream
+1.1338582677165356 w
+0.8 0.84 0.88 RG
+BT
+/F9 10.5 Tf
+12.0749999999999993 TL
+0.118 0.161 0.231 rg
+56.6929133858267775 771.0238582677164914 Td
+(In conventional banking networks, cash replenishment planning is largely governed by fixed-schedule heuristics,) Tj
+T* (manual supervisor discretion, or basic historical threshold rules.) Tj
+T* (  ) Tj
+T* () Tj
+T* (  9.1 Operational Characteristics of the Existing Method) Tj
+T* (  ) Tj
+T* (    Fixed Replenishment Days: Armored vehicles are scheduled to refill all machines on predetermined weekdays) Tj
+T* (\(e.g., every Tuesday and Friday\), irrespective of actual consumption velocity.) Tj
+T* (         F u l l - C a p a c i t y   T o p - U p s :   A T M s   a r e   f i l l e d   t o   m a x i m u m   c a s s e t t e   c a p a c i t y   \( e . g . ,   ¹ 2 0 , 0 0 , 0 0 0   t o   ¹ 4 0 , 0 0 , 0 0 0 \)) Tj
+T* (regardless of whether historical withdrawal rates warrant such large sums.) Tj
+T* (    Simple Moving Average Spreadsheets: Branch officers occasionally calculate a static 30-day average using) Tj
+T* (basic spreadsheet tools without capturing day-of-week seasonality or holiday indicators.) Tj
+T* (  ) Tj
+T* () Tj
+T* (  9.2 Disadvantages of the Existing System) Tj
+T* (  ) Tj
+T* (    ) Tj
+T* (      ) Tj
+T* (        ) Tj
+T* (          Drawback) Tj
+T* (          Root Cause) Tj
+T* (          Operational Consequence) Tj
+T* (        ) Tj
+T* (      ) Tj
+T* (      ) Tj
+T* (        ) Tj
+T* (          Excess Idle Cash) Tj
+T* (          Indiscriminate max-capacity loading) Tj
+T* (          High cost of funds, steep insurance overheads) Tj
+T* (        ) Tj
+T* (        ) Tj
+T* (          Unexpected Cash-Outs) Tj
+T* (          Inability to anticipate salary days or festival rushes) Tj
+T* (          Downtime, angry depositors, loss of interchange fee) Tj
+T* (        ) Tj
+T* (        ) Tj
+T* (          Excessive CIT Trips) Tj
+T* (          Emergency call-outs when machines run dry unexpectedly) Tj
+T* (          High logistics fees paid to security transit vendors) Tj
+T* (        ) Tj
+T* (        ) Tj
+T* (          Lack of Scalability) Tj
+T* (          Manual estimation performed locally by branch managers) Tj
+T* (          Inconsistent planning across hundreds of regional ATMs) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 807.8742519685039269 Td
+(ATM Cash Demand Prediction Using Machine Learning — BCA Project Report) Tj
+ET
+0.89 0.91 0.94 RG
+0.8503937007874016 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 34.0157480314960665 m
+538.5870866141731312 34.0157480314960665 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 22.6771653543306684 Td
+(Soumyadip Porel \([Insert University Roll Number, e.g., 12345678001]\) • [Insert College / Institute Name, e.g., St. Xavier's College / Heritage Institute / University Department]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+489.1470866141731904 22.6771653543306684 Td
+(Page 11 of 39) Tj
+ET
+endstream
+endobj
+25 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 26 0 R
+>>
+endobj
+26 0 obj
+<<
+/Length 2702
+>>
+stream
+1.1338582677165356 w
+0.8 0.84 0.88 RG
+BT
+/F2 10 Tf
+11.5 TL
+0.145 0.388 0.922 rg
+56.6929133858267775 771.0238582677164914 Td
+(CHAPTER 10) Tj
+ET
+BT
+/F10 16 Tf
+18.3999999999999986 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 754.0159842519684616 Td
+(Proposed System) Tj
+ET
+0.8 0.84 0.88 RG
+1.1338582677165356 w
+56.6929133858267775 742.6774015748030706 m
+538.5870866141731312 742.6774015748030706 l
+S
+BT
+/F9 10.5 Tf
+12.0749999999999993 TL
+0.118 0.161 0.231 rg
+56.6929133858267775 720.0002362204724022 Td
+(The proposed system introduces an intelligent, centralized machine learning framework that replaces guesswork) Tj
+T* (with quantitative regression forecasting. The system integrates machine learning algorithms, historical transaction) Tj
+T* (aggregation, and web delivery into a unified architecture.) Tj
+T* (  ) Tj
+T* () Tj
+T* (  10.1 Key Enhancements in the Proposed System) Tj
+T* (  ) Tj
+T* (    Predictive Accuracy via Extreme Gradient Boosting: Employs XGBoost Regressor to model complex) Tj
+T* (interactions among cyclic dates, weekend surges, and short-term rolling momentum.) Tj
+T* (    Compact and Effective Feature Set: Requires only six standardized operational parameters, ensuring that the) Tj
+T* (system can be executed seamlessly in production without demanding complex external feeds.) Tj
+T* (    Automated Rolling Aggregations: Features like Previous Day Demand and Previous 7-Day Average directly) Tj
+T* (capture local momentum and trends.) Tj
+T* (    Web-Based Accessibility: Implemented via Python Flask, enabling treasury controllers and logistics dispatchers) Tj
+T* (to generate instant estimates from any browser.) Tj
+T* (    Safe Buffer and Cassette Guidance: In addition to point estimates, the system accounts for residual variance) Tj
+T* ( \( M A E   ¹ 9 1 , 5 1 2 \)   t o   r e c o m m e n d   p r a c t i c a l   c a s s e t t e   r e l o a d   q u a n t i t i e s .) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 807.8742519685039269 Td
+(ATM Cash Demand Prediction Using Machine Learning — BCA Project Report) Tj
+ET
+0.89 0.91 0.94 RG
+0.8503937007874016 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 34.0157480314960665 m
+538.5870866141731312 34.0157480314960665 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 22.6771653543306684 Td
+(Soumyadip Porel \([Insert University Roll Number, e.g., 12345678001]\) • [Insert College / Institute Name, e.g., St. Xavier's College / Heritage Institute / University Department]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+489.1470866141731904 22.6771653543306684 Td
+(Page 12 of 39) Tj
+ET
+endstream
+endobj
+27 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 28 0 R
+>>
+endobj
+28 0 obj
+<<
+/Length 1198
+>>
+stream
+1.1338582677165356 w
+0.8 0.84 0.88 RG
+BT
+/F2 10 Tf
+11.5 TL
+0.145 0.388 0.922 rg
+56.6929133858267775 771.0238582677164914 Td
+(CHAPTER 11) Tj
+ET
+BT
+/F10 16 Tf
+18.3999999999999986 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 754.0159842519684616 Td
+(System Requirements) Tj
+ET
+0.8 0.84 0.88 RG
+1.1338582677165356 w
+56.6929133858267775 742.6774015748030706 m
+538.5870866141731312 742.6774015748030706 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 807.8742519685039269 Td
+(ATM Cash Demand Prediction Using Machine Learning — BCA Project Report) Tj
+ET
+0.89 0.91 0.94 RG
+0.8503937007874016 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 34.0157480314960665 m
+538.5870866141731312 34.0157480314960665 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 22.6771653543306684 Td
+(Soumyadip Porel \([Insert University Roll Number, e.g., 12345678001]\) • [Insert College / Institute Name, e.g., St. Xavier's College / Heritage Institute / University Department]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+489.1470866141731904 22.6771653543306684 Td
+(Page 13 of 39) Tj
+ET
+endstream
+endobj
+29 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 30 0 R
+>>
+endobj
+30 0 obj
+<<
+/Length 2468
+>>
+stream
+1.1338582677165356 w
+0.8 0.84 0.88 RG
+BT
+/F9 10.5 Tf
+12.0749999999999993 TL
+0.118 0.161 0.231 rg
+56.6929133858267775 771.0238582677164914 Td
+(The implementation and deployment of the ATM Cash Demand Prediction system require specified hardware and) Tj
+T* (software specifications for development, model training, and production hosting.) Tj
+T* (  ) Tj
+T* () Tj
+T* (  11.1 Hardware and Software Requirements) Tj
+T* (  ) Tj
+T* (    ) Tj
+T* (      ) Tj
+T* (        ) Tj
+T* (          Category) Tj
+T* (          Minimum Specification) Tj
+T* (          Recommended Specification) Tj
+T* (        ) Tj
+T* (      ) Tj
+T* (      ) Tj
+T* (        ) Tj
+T* (          Processor \(CPU\)) Tj
+T* (          Intel Core i3 / AMD Ryzen 3 \(Quad Core\)) Tj
+T* (          Intel Core i5 / i7 or AMD Ryzen 5/7 \(6+ Cores\)) Tj
+T* (        ) Tj
+T* (        ) Tj
+T* (          System Memory \(RAM\)) Tj
+T* (          8 GB DDR4) Tj
+T* (          16 GB DDR4 \(recommended for handling 570K rows in memory\)) Tj
+T* (        ) Tj
+T* (        ) Tj
+T* (          Storage) Tj
+T* (          20 GB available HDD) Tj
+T* (          50 GB SSD \(NVMe for faster read/write during data load\)) Tj
+T* (        ) Tj
+T* (        ) Tj
+T* (          Operating System) Tj
+T* (          Windows 10 64-bit / Ubuntu 20.04 LTS) Tj
+T* (          Windows 11 64-bit / Ubuntu 22.04 LTS / macOS) Tj
+T* (        ) Tj
+T* (        ) Tj
+T* (          Python Runtime) Tj
+T* (          Python 3.9+) Tj
+T* (          Python 3.10.x or 3.11.x 64-bit) Tj
+T* (        ) Tj
+T* (        ) Tj
+T* (          Web Browser) Tj
+T* (          Chrome 90+, Edge 90+, Firefox 88+) Tj
+T* (          Latest Google Chrome or Mozilla Firefox) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 807.8742519685039269 Td
+(ATM Cash Demand Prediction Using Machine Learning — BCA Project Report) Tj
+ET
+0.89 0.91 0.94 RG
+0.8503937007874016 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 34.0157480314960665 m
+538.5870866141731312 34.0157480314960665 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 22.6771653543306684 Td
+(Soumyadip Porel \([Insert University Roll Number, e.g., 12345678001]\) • [Insert College / Institute Name, e.g., St. Xavier's College / Heritage Institute / University Department]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+489.1470866141731904 22.6771653543306684 Td
+(Page 14 of 39) Tj
+ET
+endstream
+endobj
+31 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 32 0 R
+>>
+endobj
+32 0 obj
+<<
+/Length 1196
+>>
+stream
+1.1338582677165356 w
+0.8 0.84 0.88 RG
+BT
+/F2 10 Tf
+11.5 TL
+0.145 0.388 0.922 rg
+56.6929133858267775 771.0238582677164914 Td
+(CHAPTER 12) Tj
+ET
+BT
+/F10 16 Tf
+18.3999999999999986 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 754.0159842519684616 Td
+(Technologies Used) Tj
+ET
+0.8 0.84 0.88 RG
+1.1338582677165356 w
+56.6929133858267775 742.6774015748030706 m
+538.5870866141731312 742.6774015748030706 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 807.8742519685039269 Td
+(ATM Cash Demand Prediction Using Machine Learning — BCA Project Report) Tj
+ET
+0.89 0.91 0.94 RG
+0.8503937007874016 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 34.0157480314960665 m
+538.5870866141731312 34.0157480314960665 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 22.6771653543306684 Td
+(Soumyadip Porel \([Insert University Roll Number, e.g., 12345678001]\) • [Insert College / Institute Name, e.g., St. Xavier's College / Heritage Institute / University Department]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+489.1470866141731904 22.6771653543306684 Td
+(Page 15 of 39) Tj
+ET
+endstream
+endobj
+33 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 34 0 R
+>>
+endobj
+34 0 obj
+<<
+/Length 3316
+>>
+stream
+1.1338582677165356 w
+0.8 0.84 0.88 RG
+BT
+/F9 10.5 Tf
+12.0749999999999993 TL
+0.118 0.161 0.231 rg
+56.6929133858267775 771.0238582677164914 Td
+(The project leverages an end-to-end Python scientific computing stack combined with standard web technologies.) Tj
+T* (Each tool was selected for its performance, stability, and broad industry acceptance.) Tj
+T* (  ) Tj
+T* () Tj
+T* (  ) Tj
+T* (    ) Tj
+T* (      ) Tj
+T* (        ) Tj
+T* (          Technology / Library) Tj
+T* (          Role in Project) Tj
+T* (          Key Capabilities Leveraged) Tj
+T* (        ) Tj
+T* (      ) Tj
+T* (      ) Tj
+T* (        ) Tj
+T* (          Python) Tj
+T* (          Core Programming Language) Tj
+T* (          High readability, comprehensive data science ecosystem, cross-platform compatibility.) Tj
+T* (        ) Tj
+T* (        ) Tj
+T* (          Pandas) Tj
+T* (          Data Manipulation & Cleaning) Tj
+T* (          Fast DataFrame transformations, handling 570K rows, rolling 7-day window aggregations, lag features.) Tj
+T* (        ) Tj
+T* (        ) Tj
+T* (          NumPy) Tj
+T* (          Numerical Operations) Tj
+T* (          Multi-dimensional array calculations, fast vectorization, metric calculations \(MAE/RMSE\).) Tj
+T* (        ) Tj
+T* (        ) Tj
+T* (          Scikit-learn) Tj
+T* (          Preprocessing & Metrics) Tj
+T* (          Train-test splitting \(80:20\), label encoding, evaluation metrics \(mean_absolute_error, r2_score\).) Tj
+T* (        ) Tj
+T* (        ) Tj
+T* (          XGBoost) Tj
+T* (          Machine Learning Engine) Tj
+T* (          Extreme Gradient Boosting regressor, parallelized tree construction, efficient split finding, handling tabular) Tj
+T* (complexity.) Tj
+T* (        ) Tj
+T* (        ) Tj
+T* (          Joblib) Tj
+T* (          Model Persistence / Serialization) Tj
+T* (          Dumping the trained estimator to disk \(atm_model.joblib\) and rapid deserialization for Flask web inference.) Tj
+T* (        ) Tj
+T* (        ) Tj
+T* (          Flask) Tj
+T* (          Backend Web Microframework) Tj
+T* (          Lightweight WSGI server, REST API endpoint, routing user input to model inference and rendering views.) Tj
+T* (        ) Tj
+T* (        ) Tj
+T* (          HTML5, CSS3, JS) Tj
+T* (          Frontend Client Interface) Tj
+T* (                     R e s p o n s i v e   p a r a m e t e r   s u b m i s s i o n   f o r m s ,   d y n a m i c   c u r r e n c y   f o r m a t t i n g   \( ¹ \) ,   i n t e r a c t i v e   e r r o r   b o u n d s   a n d) Tj
+T* (charts.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 807.8742519685039269 Td
+(ATM Cash Demand Prediction Using Machine Learning — BCA Project Report) Tj
+ET
+0.89 0.91 0.94 RG
+0.8503937007874016 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 34.0157480314960665 m
+538.5870866141731312 34.0157480314960665 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 22.6771653543306684 Td
+(Soumyadip Porel \([Insert University Roll Number, e.g., 12345678001]\) • [Insert College / Institute Name, e.g., St. Xavier's College / Heritage Institute / University Department]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+489.1470866141731904 22.6771653543306684 Td
+(Page 16 of 39) Tj
+ET
+endstream
+endobj
+35 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 36 0 R
+>>
+endobj
+36 0 obj
+<<
+/Length 1198
+>>
+stream
+1.1338582677165356 w
+0.8 0.84 0.88 RG
+BT
+/F2 10 Tf
+11.5 TL
+0.145 0.388 0.922 rg
+56.6929133858267775 771.0238582677164914 Td
+(CHAPTER 13) Tj
+ET
+BT
+/F10 16 Tf
+18.3999999999999986 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 754.0159842519684616 Td
+(Dataset Description) Tj
+ET
+0.8 0.84 0.88 RG
+1.1338582677165356 w
+56.6929133858267775 742.6774015748030706 m
+538.5870866141731312 742.6774015748030706 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 807.8742519685039269 Td
+(ATM Cash Demand Prediction Using Machine Learning — BCA Project Report) Tj
+ET
+0.89 0.91 0.94 RG
+0.8503937007874016 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 34.0157480314960665 m
+538.5870866141731312 34.0157480314960665 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 22.6771653543306684 Td
+(Soumyadip Porel \([Insert University Roll Number, e.g., 12345678001]\) • [Insert College / Institute Name, e.g., St. Xavier's College / Heritage Institute / University Department]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+489.1470866141731904 22.6771653543306684 Td
+(Page 17 of 39) Tj
+ET
+endstream
+endobj
+37 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 38 0 R
+>>
+endobj
+38 0 obj
+<<
+/Length 3807
+>>
+stream
+1.1338582677165356 w
+0.8 0.84 0.88 RG
+BT
+/F9 10.5 Tf
+12.0749999999999993 TL
+0.118 0.161 0.231 rg
+56.6929133858267775 771.0238582677164914 Td
+(The dataset encapsulates real-world historical cash withdrawal transactions recorded across a diverse network of) Tj
+T* (Automated Teller Machines. After completing all stages of data integration, deduplication, and rolling-window) Tj
+T* (calculation, the final clean dataset consists of exactly 570,425 records.) Tj
+T* (  ) Tj
+T* () Tj
+T* (  ) Tj
+T* (    Each record represents an aggregate daily observation for a specific ATM kiosk. The target variable is ATM) Tj
+T* ( C a s h   D e m a n d   \( c o n t i n u o u s   n u m e r i c a l   v a l u e   i n   I n d i a n   R u p e e s   -   ¹ \) .) Tj
+T* (  ) Tj
+T* () Tj
+T* (  13.1 Feature Catalog \(Six Model Inputs + Target\)) Tj
+T* (  ) Tj
+T* (    ) Tj
+T* (      ) Tj
+T* (        ) Tj
+T* (          #) Tj
+T* (          Feature Name) Tj
+T* (          Data Type) Tj
+T* (          Domain / Range) Tj
+T* (          Functional Description) Tj
+T* (        ) Tj
+T* (      ) Tj
+T* (      ) Tj
+T* (        ) Tj
+T* (          1) Tj
+T* (          ATM ID) Tj
+T* (          Categorical / Integer) Tj
+T* (          101 – 999) Tj
+T* (          Identifies the specific ATM machine location, neighborhood profile, and clientele base.) Tj
+T* (        ) Tj
+T* (        ) Tj
+T* (          2) Tj
+T* (          Weekday) Tj
+T* (          Discrete Integer) Tj
+T* (          0 to 6) Tj
+T* (          Day of week \(0 = Monday, 1 = Tuesday, ..., 6 = Sunday\), capturing weekly cyclic patterns.) Tj
+T* (        ) Tj
+T* (        ) Tj
+T* (          3) Tj
+T* (          Month) Tj
+T* (          Discrete Integer) Tj
+T* (          1 to 12) Tj
+T* (          Calendar month \(1 = January to 12 = December\), representing broad seasonal shifts and fiscal cycles.) Tj
+T* (        ) Tj
+T* (        ) Tj
+T* (          4) Tj
+T* (          Previous Day Cash Demand) Tj
+T* (          Continuous Float) Tj
+T* (                     ¹ 0 . 0 0   t o   ¹ 1 5 , 0 0 , 0 0 0 +) Tj
+T* (          The total cash amount dispensed on day \(t-1\). Provides immediate lag momentum.) Tj
+T* (        ) Tj
+T* (        ) Tj
+T* (          5) Tj
+T* (          Previous 7-Day Average Demand) Tj
+T* (          Continuous Float) Tj
+T* (                     ¹ 1 0 , 0 0 0   t o   ¹ 1 2 , 0 0 , 0 0 0 +) Tj
+T* (          Rolling mean of cash dispensed across days \(t-7\) through \(t-1\), smoothing out daily anomalies.) Tj
+T* (        ) Tj
+T* (        ) Tj
+T* (          6) Tj
+T* (          Working Day / Holiday) Tj
+T* (          Binary Flag) Tj
+T* (          0 or 1) Tj
+T* (          1 if normal working business day; 0 if statutory bank holiday, festive day, or weekend holiday.) Tj
+T* (        ) Tj
+T* (        ) Tj
+T* (          *) Tj
+T* (          ATM Cash Demand \(Target\)) Tj
+T* (          Continuous Float) Tj
+T* (                     ¹ 0   t o   ¹ 2 5 , 0 0 , 0 0 0 +) Tj
+T* (          Target Variable: Actual cash required/withdrawn on prediction day \(t\).) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 807.8742519685039269 Td
+(ATM Cash Demand Prediction Using Machine Learning — BCA Project Report) Tj
+ET
+0.89 0.91 0.94 RG
+0.8503937007874016 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 34.0157480314960665 m
+538.5870866141731312 34.0157480314960665 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 22.6771653543306684 Td
+(Soumyadip Porel \([Insert University Roll Number, e.g., 12345678001]\) • [Insert College / Institute Name, e.g., St. Xavier's College / Heritage Institute / University Department]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+489.1470866141731904 22.6771653543306684 Td
+(Page 18 of 39) Tj
+ET
+endstream
+endobj
+39 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 40 0 R
+>>
+endobj
+40 0 obj
+<<
+/Length 2793
+>>
+stream
+1.1338582677165356 w
+0.8 0.84 0.88 RG
+BT
+/F2 10 Tf
+11.5 TL
+0.145 0.388 0.922 rg
+56.6929133858267775 771.0238582677164914 Td
+(CHAPTER 14) Tj
+ET
+BT
+/F10 16 Tf
+18.3999999999999986 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 754.0159842519684616 Td
+(Data Cleaning) Tj
+ET
+0.8 0.84 0.88 RG
+1.1338582677165356 w
+56.6929133858267775 742.6774015748030706 m
+538.5870866141731312 742.6774015748030706 l
+S
+BT
+/F9 10.5 Tf
+12.0749999999999993 TL
+0.118 0.161 0.231 rg
+56.6929133858267775 720.0002362204724022 Td
+(Raw transactional logs generated by ATM core banking switches inevitably suffer from real-world telemetry) Tj
+T* (defects, including telecommunication drops, kiosk maintenance downtime, negative balance reversals, and) Tj
+T* (corrupted timestamp records. A thorough data cleaning pipeline was constructed using Pandas:) Tj
+T* (  ) Tj
+T* () Tj
+T* (  14.1 Key Cleaning Procedures) Tj
+T* (  ) Tj
+T* (    ) Tj
+T* (      Deduplication: Multiple switch log entries matching identical \(ATM_ID, Date, Timestamp\) tuples were) Tj
+T* (aggregated to prevent duplicate counting of single transactions.) Tj
+T* (    ) Tj
+T* (    ) Tj
+T* (      Handling Missing / Null Values: Days where specific ATMs had missing logs due to localized electrical) Tj
+T* (outages were evaluated. Where continuous outages exceeded 14 days, the records were flagged; short gaps were) Tj
+T* (imputed or excluded from rolling window seeds to prevent biased zero-skew.) Tj
+T* (    ) Tj
+T* (    ) Tj
+T* (      Anomaly and Negative Discard: Diagnostic reversal entries or negative cash adjustments \(resulting from) Tj
+T* (mechanical bill-reject re-crediting\) were filtered out, ensuring all cash demand figures reflect genuine customer) Tj
+T* ( d i s p e n s a t i o n s   \( C a s h   D e m a n d  "e   0 \) .) Tj
+T* (    ) Tj
+T* (    ) Tj
+T* (      Date Harmonization: Dates were parsed into standardized ISO-8601 datetime64[ns] format, facilitating) Tj
+T* (chronological sorting per ATM ID before calculating lag features.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 807.8742519685039269 Td
+(ATM Cash Demand Prediction Using Machine Learning — BCA Project Report) Tj
+ET
+0.89 0.91 0.94 RG
+0.8503937007874016 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 34.0157480314960665 m
+538.5870866141731312 34.0157480314960665 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 22.6771653543306684 Td
+(Soumyadip Porel \([Insert University Roll Number, e.g., 12345678001]\) • [Insert College / Institute Name, e.g., St. Xavier's College / Heritage Institute / University Department]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+489.1470866141731904 22.6771653543306684 Td
+(Page 19 of 39) Tj
+ET
+endstream
+endobj
+41 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 42 0 R
+>>
+endobj
+42 0 obj
+<<
+/Length 1198
+>>
+stream
+1.1338582677165356 w
+0.8 0.84 0.88 RG
+BT
+/F2 10 Tf
+11.5 TL
+0.145 0.388 0.922 rg
+56.6929133858267775 771.0238582677164914 Td
+(CHAPTER 15) Tj
+ET
+BT
+/F10 16 Tf
+18.3999999999999986 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 754.0159842519684616 Td
+(Feature Engineering) Tj
+ET
+0.8 0.84 0.88 RG
+1.1338582677165356 w
+56.6929133858267775 742.6774015748030706 m
+538.5870866141731312 742.6774015748030706 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 807.8742519685039269 Td
+(ATM Cash Demand Prediction Using Machine Learning — BCA Project Report) Tj
+ET
+0.89 0.91 0.94 RG
+0.8503937007874016 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 34.0157480314960665 m
+538.5870866141731312 34.0157480314960665 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 22.6771653543306684 Td
+(Soumyadip Porel \([Insert University Roll Number, e.g., 12345678001]\) • [Insert College / Institute Name, e.g., St. Xavier's College / Heritage Institute / University Department]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+489.1470866141731904 22.6771653543306684 Td
+(Page 20 of 39) Tj
+ET
+endstream
+endobj
+43 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 44 0 R
+>>
+endobj
+44 0 obj
+<<
+/Length 2943
+>>
+stream
+1.1338582677165356 w
+0.8 0.84 0.88 RG
+BT
+/F9 10.5 Tf
+12.0749999999999993 TL
+0.118 0.161 0.231 rg
+56.6929133858267775 771.0238582677164914 Td
+(In time-series tabular regression, feature engineering is the most critical determinant of model predictive) Tj
+T* (capability. Because the raw data only logged date, ATM identifier, and withdrawal amount, domain-specific) Tj
+T* (features were engineered to provide temporal context and local demand momentum:) Tj
+T* (  ) Tj
+T* () Tj
+T* (  15.1 Derivation of Key Predictive Features) Tj
+T* (  ) Tj
+T* (    ) Tj
+T* (      1. Previous Day Demand \(Lag-1 Feature\)) Tj
+T* (      ) Tj
+T* (        Formulated as: df['prev_day_demand'] = df.groupby\('atm_id'\)['cash_demand'].shift\(1\). ) Tj
+T* (        Provides the immediate baseline of current consumption velocity.) Tj
+T* (      ) Tj
+T* (    ) Tj
+T* () Tj
+T* (    ) Tj
+T* (      2. Previous 7-Day Average Demand \(Rolling Mean\)) Tj
+T* (      ) Tj
+T* (        Formulated as: df['prev_7day_avg'] = df.groupby\('atm_id'\)['cash_demand'].shift\(1\).rolling\(window=7,) Tj
+T* (min_periods=7\).mean\(\). ) Tj
+T* (        Smooths high-frequency day-to-day fluctuations while capturing weekly localized spending trends.) Tj
+T* (      ) Tj
+T* (    ) Tj
+T* () Tj
+T* (    ) Tj
+T* (      3. Calendar Temporal Decomposition) Tj
+T* (      ) Tj
+T* (        Extracted df['weekday'] = df['date'].dt.weekday \(0 to 6\) and df['month'] = df['date'].dt.month \(1 to 12\) to) Tj
+T* (allow tree splits to segment weekend vs. weekday demand and month-end salary cycles.) Tj
+T* (      ) Tj
+T* (    ) Tj
+T* () Tj
+T* (    ) Tj
+T* (      4. Working Day vs. Holiday Binary Classification) Tj
+T* (      ) Tj
+T* (        Integrated statutory banking holiday calendars mapped with weekends to create a clean binary flag: 1 for) Tj
+T* (standard business operating days, 0 for bank holidays, festivals, or weekend shutdowns.) Tj
+T* (      ) Tj
+T* (    ) Tj
+T* (  ) Tj
+T* () Tj
+T* (  ) Tj
+T* (    Following the application of the 7-day rolling shift, the initial 7 burn-in records per ATM were trimmed,) Tj
+T* (yielding the definitive, high-integrity dataset of 570,425 records.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 807.8742519685039269 Td
+(ATM Cash Demand Prediction Using Machine Learning — BCA Project Report) Tj
+ET
+0.89 0.91 0.94 RG
+0.8503937007874016 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 34.0157480314960665 m
+538.5870866141731312 34.0157480314960665 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 22.6771653543306684 Td
+(Soumyadip Porel \([Insert University Roll Number, e.g., 12345678001]\) • [Insert College / Institute Name, e.g., St. Xavier's College / Heritage Institute / University Department]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+489.1470866141731904 22.6771653543306684 Td
+(Page 21 of 39) Tj
+ET
+endstream
+endobj
+45 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 46 0 R
+>>
+endobj
+46 0 obj
+<<
+/Length 2425
+>>
+stream
+1.1338582677165356 w
+0.8 0.84 0.88 RG
+BT
+/F2 10 Tf
+11.5 TL
+0.145 0.388 0.922 rg
+56.6929133858267775 771.0238582677164914 Td
+(CHAPTER 16) Tj
+ET
+BT
+/F10 16 Tf
+18.3999999999999986 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 754.0159842519684616 Td
+(Data Preprocessing) Tj
+ET
+0.8 0.84 0.88 RG
+1.1338582677165356 w
+56.6929133858267775 742.6774015748030706 m
+538.5870866141731312 742.6774015748030706 l
+S
+BT
+/F9 10.5 Tf
+12.0749999999999993 TL
+0.118 0.161 0.231 rg
+56.6929133858267775 720.0002362204724022 Td
+(To ensure sound empirical rigor, data preprocessing was carried out to prevent data leakage and prepare numerical) Tj
+T* (matrices for the gradient boosting algorithm.) Tj
+T* (  ) Tj
+T* () Tj
+T* (  16.1 Dataset Partitioning \(80:20 Train-Test Split\)) Tj
+T* (  ) Tj
+T* (    The consolidated dataset of 570,425 records was split into an 80% training set and a 20% hold-out evaluation) Tj
+T* (set:) Tj
+T* (  ) Tj
+T* (  ) Tj
+T* (    Total Available Records: 570,425 records \(100%\)) Tj
+T* (    Training Records: 456,340 records \(80%\)) Tj
+T* (    Testing Records: 114,085 records \(20%\)) Tj
+T* (  ) Tj
+T* () Tj
+T* (  16.2 Encoding and Numerical Formatting) Tj
+T* (  ) Tj
+T* (    Because tree-based algorithms like XGBoost do not require strict linear feature scaling \(such as z-score) Tj
+T* (standardization or min-max normalization\) to find optimal splitting thresholds, numerical features were) Tj
+T* (maintained in their native rupee denominations. Categorical identifiers \(atm_id\) were label-encoded into clean) Tj
+T* (integer keys suitable for fast array indexing during gradient boosting split evaluations.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 807.8742519685039269 Td
+(ATM Cash Demand Prediction Using Machine Learning — BCA Project Report) Tj
+ET
+0.89 0.91 0.94 RG
+0.8503937007874016 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 34.0157480314960665 m
+538.5870866141731312 34.0157480314960665 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 22.6771653543306684 Td
+(Soumyadip Porel \([Insert University Roll Number, e.g., 12345678001]\) • [Insert College / Institute Name, e.g., St. Xavier's College / Heritage Institute / University Department]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+489.1470866141731904 22.6771653543306684 Td
+(Page 22 of 39) Tj
+ET
+endstream
+endobj
+47 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 48 0 R
+>>
+endobj
+48 0 obj
+<<
+/Length 3542
+>>
+stream
+1.1338582677165356 w
+0.8 0.84 0.88 RG
+BT
+/F2 10 Tf
+11.5 TL
+0.145 0.388 0.922 rg
+56.6929133858267775 771.0238582677164914 Td
+(CHAPTER 17) Tj
+ET
+BT
+/F10 16 Tf
+18.3999999999999986 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 754.0159842519684616 Td
+(Machine Learning Model \(XGBoost Regressor\)) Tj
+ET
+0.8 0.84 0.88 RG
+1.1338582677165356 w
+56.6929133858267775 742.6774015748030706 m
+538.5870866141731312 742.6774015748030706 l
+S
+BT
+/F9 10.5 Tf
+12.0749999999999993 TL
+0.118 0.161 0.231 rg
+56.6929133858267775 720.0002362204724022 Td
+(The core prediction engine is built on XGBoost \(Extreme Gradient Boosting\) Regressor, an optimized distributed) Tj
+T* (gradient boosting library developed by Chen & Guestrin.) Tj
+T* (  ) Tj
+T* () Tj
+T* (  17.1 Theoretical Principles of Gradient Boosting) Tj
+T* (  ) Tj
+T* (    Unlike traditional Random Forests which construct independent decision trees through bootstrap aggregation) Tj
+T* (\(bagging\), XGBoost builds trees sequentially in an additive manner \(boosting\). Each consecutive tree is trained to) Tj
+T* (predict the negative gradient \(the residual errors\) of the preceding ensemble:) Tj
+T* (  ) Tj
+T* () Tj
+T* (  ) Tj
+T* (        w i \( t \)   =  w i \( t - 1 \)   +   f t \( x i \)) Tj
+T* (  ) Tj
+T* () Tj
+T* (  ) Tj
+T* (         W h e r e  w i \( t \)   i s   t h e   p r e d i c t i o n   a t   s t e p   t ,   a n d   f t \( x i \)   i s   t h e   n e w l y   a d d e d   d e c i s i o n   t r e e   m i n i m i z i n g   t h e   r e g u l a r i z e d) Tj
+T* (objective function:) Tj
+T* (  ) Tj
+T* () Tj
+T* (  ) Tj
+T* (         O b j \(¸ \)   =  " i = 1 N   L \( y i ,  w i \)   +  " k = 1 T  © \( f k \)) Tj
+T* (  ) Tj
+T* () Tj
+T* (  ) Tj
+T* (         H e r e ,   L   r e p r e s e n t s   t h e   c o n v e x   d i f f e r e n t i a b l e   l o s s   f u n c t i o n   \( S q u a r e d   E r r o r \) ,   a n d  © \( f \)   =  ³ T   +   ½»" w 2   p e n a l i z e s) Tj
+T* (model complexity \(number of leaf nodes T and leaf weights w\) to prevent overfitting on the 456,340 training) Tj
+T* (records.) Tj
+T* (  ) Tj
+T* () Tj
+T* (  17.2 Why XGBoost Was Selected Over Alternative Algorithms) Tj
+T* (  ) Tj
+T* (    Handling Non-Linear Decision Boundaries: Cash demand displays sharp threshold step-functions \(e.g., Friday) Tj
+T* (paydays vs. Sunday bank holidays\) that linear regression fails to capture.) Tj
+T* (    Robustness to Tabular Outliers: Tree splits rely on ordinal rank ordering rather than linear distance, mitigating) Tj
+T* (the disruptive impact of occasional giant withdrawals.) Tj
+T* (    Computational Efficiency: XGBoost implements block-compressed column storage and hardware cache-aware) Tj
+T* (pre-fetching, allowing rapid training over 456,340 rows.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 807.8742519685039269 Td
+(ATM Cash Demand Prediction Using Machine Learning — BCA Project Report) Tj
+ET
+0.89 0.91 0.94 RG
+0.8503937007874016 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 34.0157480314960665 m
+538.5870866141731312 34.0157480314960665 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 22.6771653543306684 Td
+(Soumyadip Porel \([Insert University Roll Number, e.g., 12345678001]\) • [Insert College / Institute Name, e.g., St. Xavier's College / Heritage Institute / University Department]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+489.1470866141731904 22.6771653543306684 Td
+(Page 23 of 39) Tj
+ET
+endstream
+endobj
+49 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 50 0 R
+>>
+endobj
+50 0 obj
+<<
+/Length 1193
+>>
+stream
+1.1338582677165356 w
+0.8 0.84 0.88 RG
+BT
+/F2 10 Tf
+11.5 TL
+0.145 0.388 0.922 rg
+56.6929133858267775 771.0238582677164914 Td
+(CHAPTER 18) Tj
+ET
+BT
+/F10 16 Tf
+18.3999999999999986 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 754.0159842519684616 Td
+(Model Training) Tj
+ET
+0.8 0.84 0.88 RG
+1.1338582677165356 w
+56.6929133858267775 742.6774015748030706 m
+538.5870866141731312 742.6774015748030706 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 807.8742519685039269 Td
+(ATM Cash Demand Prediction Using Machine Learning — BCA Project Report) Tj
+ET
+0.89 0.91 0.94 RG
+0.8503937007874016 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 34.0157480314960665 m
+538.5870866141731312 34.0157480314960665 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 22.6771653543306684 Td
+(Soumyadip Porel \([Insert University Roll Number, e.g., 12345678001]\) • [Insert College / Institute Name, e.g., St. Xavier's College / Heritage Institute / University Department]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+489.1470866141731904 22.6771653543306684 Td
+(Page 24 of 39) Tj
+ET
+endstream
+endobj
+51 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 52 0 R
+>>
+endobj
+52 0 obj
+<<
+/Length 3011
+>>
+stream
+1.1338582677165356 w
+0.8 0.84 0.88 RG
+BT
+/F9 10.5 Tf
+12.0749999999999993 TL
+0.118 0.161 0.231 rg
+56.6929133858267775 771.0238582677164914 Td
+(Model training was executed utilizing the Python xgboost package on the 456,340 training records.) Tj
+T* (  ) Tj
+T* () Tj
+T* (  18.1 Hyperparameter Configuration) Tj
+T* (  ) Tj
+T* (    ) Tj
+T* (      ) Tj
+T* (        ) Tj
+T* (          Hyperparameter) Tj
+T* (          Selected Value) Tj
+T* (          Engineering Justification) Tj
+T* (        ) Tj
+T* (      ) Tj
+T* (      ) Tj
+T* (        ) Tj
+T* (          n_estimators) Tj
+T* (          300) Tj
+T* (          Sufficient sequential boosting iterations to minimize training residual without severe over-fitting.) Tj
+T* (        ) Tj
+T* (        ) Tj
+T* (          learning_rate \(eta\)) Tj
+T* (          0.05) Tj
+T* (          Shrinkage step-size to guard against aggressive steps and ensure smooth convergence.) Tj
+T* (        ) Tj
+T* (        ) Tj
+T* (          max_depth) Tj
+T* (          6) Tj
+T* (          Limits individual tree depth, preventing memorization of noise while modeling 6-way interactions.) Tj
+T* (        ) Tj
+T* (        ) Tj
+T* (          subsample) Tj
+T* (          0.85) Tj
+T* (          Randomly samples 85% of training instances per tree, adding stochastic regularization.) Tj
+T* (        ) Tj
+T* (        ) Tj
+T* (          colsample_bytree) Tj
+T* (          0.85) Tj
+T* (          Subsamples 85% of features per tree to prevent single dominant features from masking others.) Tj
+T* (        ) Tj
+T* (        ) Tj
+T* (          objective) Tj
+T* (          reg:squarederror) Tj
+T* (          Standard regression objective minimizing squared Euclidean distance between actual and predicted demand.) Tj
+T* (        ) Tj
+T* (      ) Tj
+T* (    ) Tj
+T* (  ) Tj
+T* () Tj
+T* (  18.2 Model Serialization via Joblib) Tj
+T* (  ) Tj
+T* (    Following convergence on the training set, the trained booster was exported to disk as a binary model artifact) Tj
+T* (using joblib.dump\(model, 'atm_cash_demand_xgb.joblib'\). This serialized artifact maintains tree weights and split) Tj
+T* (rules, enabling the Flask web application to load the model in under 150 milliseconds upon web server startup.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 807.8742519685039269 Td
+(ATM Cash Demand Prediction Using Machine Learning — BCA Project Report) Tj
+ET
+0.89 0.91 0.94 RG
+0.8503937007874016 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 34.0157480314960665 m
+538.5870866141731312 34.0157480314960665 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 22.6771653543306684 Td
+(Soumyadip Porel \([Insert University Roll Number, e.g., 12345678001]\) • [Insert College / Institute Name, e.g., St. Xavier's College / Heritage Institute / University Department]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+489.1470866141731904 22.6771653543306684 Td
+(Page 25 of 39) Tj
+ET
+endstream
+endobj
+53 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 54 0 R
+>>
+endobj
+54 0 obj
+<<
+/Length 2996
+>>
+stream
+1.1338582677165356 w
+0.8 0.84 0.88 RG
+BT
+/F2 10 Tf
+11.5 TL
+0.145 0.388 0.922 rg
+56.6929133858267775 771.0238582677164914 Td
+(CHAPTER 19) Tj
+ET
+BT
+/F10 16 Tf
+18.3999999999999986 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 754.0159842519684616 Td
+(Model Evaluation) Tj
+ET
+0.8 0.84 0.88 RG
+1.1338582677165356 w
+56.6929133858267775 742.6774015748030706 m
+538.5870866141731312 742.6774015748030706 l
+S
+BT
+/F9 10.5 Tf
+12.0749999999999993 TL
+0.118 0.161 0.231 rg
+56.6929133858267775 720.0002362204724022 Td
+(Model evaluation assesses whether an estimator trained on historical data generalizes reliably to unseen future) Tj
+T* (observations. The model was evaluated on the independent hold-out test set of 114,085 records using three) Tj
+T* (standard regression evaluation metrics:) Tj
+T* (  ) Tj
+T* () Tj
+T* (  19.1 Mathematical Formulations of Evaluation Metrics) Tj
+T* () Tj
+T* (  ) Tj
+T* (    ) Tj
+T* (      1. Mean Absolute Error \(MAE\)) Tj
+T* (      ) Tj
+T* (                 M A E   =   \( 1   /   n \)   ×  " i = 1 n   |   y i   -  w i   |) Tj
+T* (      ) Tj
+T* (      ) Tj
+T* (        Measures the average magnitude of absolute errors in rupee terms. Every rupee of discrepancy carries equal) Tj
+T* (linear weight without exaggerated penalty for rare outliers.) Tj
+T* (      ) Tj
+T* (    ) Tj
+T* () Tj
+T* (    ) Tj
+T* (      2. Root Mean Squared Error \(RMSE\)) Tj
+T* (      ) Tj
+T* (                 R M S E   =  "   [   \( 1   /   n \)   ×  " i = 1 n   \( y i   -  w i \) 2   ]) Tj
+T* (      ) Tj
+T* (      ) Tj
+T* (        Squares residuals before averaging, penalizing large forecasting errors heavily. In banking logistics, a) Tj
+T* (massive under-prediction is disproportionately hazardous compared to small day-to-day variances.) Tj
+T* (      ) Tj
+T* (    ) Tj
+T* () Tj
+T* (    ) Tj
+T* (      3. Coefficient of Determination \(R² Score\)) Tj
+T* (      ) Tj
+T* (                 R ²   =   1   -   [  " i = 1 n   \( y i   -  w i \) 2   /  " i = 1 n   \( y i   -  3 \) 2   ]) Tj
+T* (      ) Tj
+T* (      ) Tj
+T* (        Quantifies the proportion of variance in ATM cash demand that is explained by the six independent features) Tj
+T* (relative to a baseline mean predictor.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 807.8742519685039269 Td
+(ATM Cash Demand Prediction Using Machine Learning — BCA Project Report) Tj
+ET
+0.89 0.91 0.94 RG
+0.8503937007874016 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 34.0157480314960665 m
+538.5870866141731312 34.0157480314960665 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 22.6771653543306684 Td
+(Soumyadip Porel \([Insert University Roll Number, e.g., 12345678001]\) • [Insert College / Institute Name, e.g., St. Xavier's College / Heritage Institute / University Department]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+489.1470866141731904 22.6771653543306684 Td
+(Page 26 of 39) Tj
+ET
+endstream
+endobj
+55 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 56 0 R
+>>
+endobj
+56 0 obj
+<<
+/Length 1202
+>>
+stream
+1.1338582677165356 w
+0.8 0.84 0.88 RG
+BT
+/F2 10 Tf
+11.5 TL
+0.145 0.388 0.922 rg
+56.6929133858267775 771.0238582677164914 Td
+(CHAPTER 20) Tj
+ET
+BT
+/F10 16 Tf
+18.3999999999999986 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 754.0159842519684616 Td
+(Results and Performance) Tj
+ET
+0.8 0.84 0.88 RG
+1.1338582677165356 w
+56.6929133858267775 742.6774015748030706 m
+538.5870866141731312 742.6774015748030706 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 807.8742519685039269 Td
+(ATM Cash Demand Prediction Using Machine Learning — BCA Project Report) Tj
+ET
+0.89 0.91 0.94 RG
+0.8503937007874016 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 34.0157480314960665 m
+538.5870866141731312 34.0157480314960665 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 22.6771653543306684 Td
+(Soumyadip Porel \([Insert University Roll Number, e.g., 12345678001]\) • [Insert College / Institute Name, e.g., St. Xavier's College / Heritage Institute / University Department]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+489.1470866141731904 22.6771653543306684 Td
+(Page 27 of 39) Tj
+ET
+endstream
+endobj
+57 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 58 0 R
+>>
+endobj
+58 0 obj
+<<
+/Length 5871
+>>
+stream
+1.1338582677165356 w
+0.8 0.84 0.88 RG
+BT
+/F9 10.5 Tf
+12.0749999999999993 TL
+0.118 0.161 0.231 rg
+56.6929133858267775 771.0238582677164914 Td
+(The trained XGBoost Regressor was evaluated on the unseen testing partition of 114,085 records. The empirical) Tj
+T* (outcomes are presented below:) Tj
+T* (  ) Tj
+T* () Tj
+T* (  ) Tj
+T* (    ) Tj
+T* (      ) Tj
+T* (        ) Tj
+T* (          Evaluation Metric / Metric Parameter) Tj
+T* (          Observed Value) Tj
+T* (          Interpretation & Operational Impact) Tj
+T* (        ) Tj
+T* (      ) Tj
+T* (      ) Tj
+T* (        ) Tj
+T* (          Dataset Records \(Post-Cleaning & Rolling Feature Generation\)) Tj
+T* (          570,425) Tj
+T* (          Comprehensive multi-year transactional dataset across diverse geographical ATM kiosks.) Tj
+T* (        ) Tj
+T* (        ) Tj
+T* (          Training Records \(80% Partition\)) Tj
+T* (          456,340) Tj
+T* (          Used for boosting iterations, tree split finding, and residual minimization.) Tj
+T* (        ) Tj
+T* (        ) Tj
+T* (          Testing Records \(20% Hold-Out Partition\)) Tj
+T* (          114,085) Tj
+T* (          Completely unseen during training; utilized strictly for generalization verification.) Tj
+T* (        ) Tj
+T* (        ) Tj
+T* (          Mean Absolute Error \(MAE\)) Tj
+T* (                     ¹ 9 1 , 5 1 2 . 2 1) Tj
+T* (                     O n   a v e r a g e ,   t h e   m o d e l ' s   e s t i m a t e   d e v i a t e s   f r o m   a c t u a l   d a i l y   c a s h   d e m a n d   b y   a p p r o x i m a t e l y   ¹ 9 1 . 5 K .) Tj
+T* (        ) Tj
+T* (        ) Tj
+T* (          Root Mean Squared Error \(RMSE\)) Tj
+T* (                     ¹ 1 5 8 , 9 0 2 . 7 8) Tj
+T* (          Penalizes large errors heavily; reflects the influence of high-demand outlier surge events.) Tj
+T* (        ) Tj
+T* (        ) Tj
+T* (          Coefficient of Determination \(R² Score\)) Tj
+T* (          0.4703) Tj
+T* (          Explains ~47.03% of the total variance in daily cash requirements across all ATMs.) Tj
+T* (        ) Tj
+T* (      ) Tj
+T* (    ) Tj
+T* (  ) Tj
+T* () Tj
+T* (  20.1 In-Depth Academic Analysis of Model Performance) Tj
+T* (  ) Tj
+T* (  ) Tj
+T* (    Moderate Predictive Performance Discussion:) Tj
+T* (    ) Tj
+T* (      An R² score of 0.4703 denotes moderate predictive performance. In academic literature and commercial) Tj
+T* (banking practice, ATM cash demand is widely recognized as a highly stochastic, non-stationary time series) Tj
+T* (influenced by unobserved external variables—such as nearby competitor ATM outages, spontaneous local retail) Tj
+T* (sales, unexpected bank branch closures, emergency medical expenses, and cash-in-circulation macroeconomic) Tj
+T* (trends. Given that the system relies on only six fundamental tabular features without accessing private customer) Tj
+T* (account balances or real-time footfall cameras, achieving an R² of ~0.47 across 114,085 testing instances is) Tj
+T* (practical, robust, and completely devoid of artificial data leakage or overfitting.) Tj
+T* (    ) Tj
+T* (  ) Tj
+T* () Tj
+T* (     2 0 . 2   E x p l a n a t i o n   o f   t h e   E r r o r   G a p :   M A E   \( ¹ 9 1 , 5 1 2 \)   v s .   R M S E   \( ¹ 1 5 8 , 9 0 2 \)) Tj
+T* (  ) Tj
+T* (         A   c r i t i c a l   a c a d e m i c   o b s e r v a t i o n   i s   t h e   s i g n i f i c a n t   g a p   b e t w e e n   t h e   M e a n   A b s o l u t e   E r r o r   \( ¹ 9 1 , 5 1 2 . 2 1 \)   a n d   t h e) Tj
+T* ( R o o t   M e a n   S q u a r e d   E r r o r   \( ¹ 1 5 8 , 9 0 2 . 7 8 \) .) Tj
+T* (  ) Tj
+T* (  ) Tj
+T* (    Because RMSE squares the error terms prior to computing the square root, it is substantially more sensitive to) Tj
+T* (large outliers than MAE. This mathematical property reveals an important real-world characteristic of the dataset:) Tj
+T* (  ) Tj
+T* (  ) Tj
+T* (    Baseline Operational Days: During regular mid-week business operations, individual ATM demand is stable) Tj
+T* (and well-tracked by the 7-day rolling average and previous-day demand. On these normal days, residuals remain) Tj
+T* ( c o m f o r t a b l y   b e l o w   t h e   ¹ 9 1 , 5 1 2   m a r k .) Tj
+T* (    Extreme Surge Outlier Days: During extreme high-demand anomalies—such as annual Diwali / Durga Puja) Tj
+T* (shopping sprees, end-of-year holiday travel, sudden cash panics, or the 1st of the month salary) Tj
+T* ( d i s b u r s e m e n t s — d e m a n d   m a y   s u r g e   f r o m   a   n o r m a l   ¹ 4 , 0 0 , 0 0 0   t o   ¹ 1 8 , 0 0 , 0 0 0   i n   a   s i n g l e   a f t e r n o o n .) Tj
+T* (    Asymmetric Tail Errors: Because the feature set lacks advance knowledge of specific local festive shopping) Tj
+T* (fairs or corporate payroll deposit timings, the model predicts closer to the rolling trend. The resulting large) Tj
+T* ( r e s i d u a l s   \( e . g . ,   e r r o r   o f   ¹ 5 , 0 0 , 0 0 0   t o   ¹ 8 , 0 0 , 0 0 0   o n   t h a t   s i n g l e   d a y \)   d i s p r o p o r t i o n a t e l y   i n f l a t e   t h e   R M S E   t o) Tj
+T* ( ¹ 1 5 8 , 9 0 2 . 7 8 .) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 807.8742519685039269 Td
+(ATM Cash Demand Prediction Using Machine Learning — BCA Project Report) Tj
+ET
+0.89 0.91 0.94 RG
+0.8503937007874016 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 34.0157480314960665 m
+538.5870866141731312 34.0157480314960665 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 22.6771653543306684 Td
+(Soumyadip Porel \([Insert University Roll Number, e.g., 12345678001]\) • [Insert College / Institute Name, e.g., St. Xavier's College / Heritage Institute / University Department]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+489.1470866141731904 22.6771653543306684 Td
+(Page 28 of 39) Tj
+ET
+endstream
+endobj
+59 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 60 0 R
+>>
+endobj
+60 0 obj
+<<
+/Length 1200
+>>
+stream
+1.1338582677165356 w
+0.8 0.84 0.88 RG
+BT
+/F2 10 Tf
+11.5 TL
+0.145 0.388 0.922 rg
+56.6929133858267775 771.0238582677164914 Td
+(CHAPTER 21) Tj
+ET
+BT
+/F10 16 Tf
+18.3999999999999986 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 754.0159842519684616 Td
+(Flask Web Application) Tj
+ET
+0.8 0.84 0.88 RG
+1.1338582677165356 w
+56.6929133858267775 742.6774015748030706 m
+538.5870866141731312 742.6774015748030706 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 807.8742519685039269 Td
+(ATM Cash Demand Prediction Using Machine Learning — BCA Project Report) Tj
+ET
+0.89 0.91 0.94 RG
+0.8503937007874016 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 34.0157480314960665 m
+538.5870866141731312 34.0157480314960665 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 22.6771653543306684 Td
+(Soumyadip Porel \([Insert University Roll Number, e.g., 12345678001]\) • [Insert College / Institute Name, e.g., St. Xavier's College / Heritage Institute / University Department]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+489.1470866141731904 22.6771653543306684 Td
+(Page 29 of 39) Tj
+ET
+endstream
+endobj
+61 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 62 0 R
+>>
+endobj
+62 0 obj
+<<
+/Length 3432
+>>
+stream
+1.1338582677165356 w
+0.8 0.84 0.88 RG
+BT
+/F9 10.5 Tf
+12.0749999999999993 TL
+0.118 0.161 0.231 rg
+56.6929133858267775 771.0238582677164914 Td
+(To transform the machine learning algorithm into an interactive decision-support tool, a lightweight web) Tj
+T* (application was developed using the Python Flask microframework.) Tj
+T* (  ) Tj
+T* () Tj
+T* (  21.1 Architectural Implementation \(app.py\)) Tj
+T* (  ) Tj
+T* (    The Flask application acts as the orchestration layer between the user interface and the serialized Joblib model.) Tj
+T* (The server architecture operates through the following sequence:) Tj
+T* (  ) Tj
+T* () Tj
+T* (  ) Tj
+T* (    # app.py - Flask Machine Learning Microservice) Tj
+T* (    from flask import Flask, render_template, request, jsonify) Tj
+T* (    import joblib) Tj
+T* (    import numpy as np) Tj
+T* (    import pandas as pd) Tj
+T* (    ) Tj
+T* (    app = Flask\(__name__\)) Tj
+T* (    model = joblib.load\('atm_cash_demand_xgb.joblib'\)) Tj
+T* (    ) Tj
+T* (    @app.route\('/'\)) Tj
+T* (    def home\(\):) Tj
+T* (        return render_template\('index.html'\)) Tj
+T* (    ) Tj
+T* (    @app.route\('/predict', methods=['POST']\)) Tj
+T* (    def predict\(\):) Tj
+T* (        data = request.form) Tj
+T* (        atm_id = int\(data.get\('atm_id'\)\)) Tj
+T* (        weekday = int\(data.get\('weekday'\)\)) Tj
+T* (        month = int\(data.get\('month'\)\)) Tj
+T* (        prev_day_demand = float\(data.get\('prev_day_demand'\)\)) Tj
+T* (        prev_7day_avg = float\(data.get\('prev_7day_avg'\)\)) Tj
+T* (        is_working_day = int\(data.get\('is_working_day'\)\)) Tj
+T* (    ) Tj
+T* (        input_df = pd.DataFrame\([{) Tj
+T* (            'atm_id': atm_id,) Tj
+T* (            'weekday': weekday,) Tj
+T* (            'month': month,) Tj
+T* (            'prev_day_demand': prev_day_demand,) Tj
+T* (            'prev_7day_avg': prev_7day_avg,) Tj
+T* (            'is_working_day': is_working_day) Tj
+T* (        }]\)) Tj
+T* (    ) Tj
+T* (        prediction = model.predict\(input_df\)[0]) Tj
+T* (        predicted_demand = max\(0.0, round\(float\(prediction\), 2\)\)) Tj
+T* (    ) Tj
+T* (        return jsonify\({) Tj
+T* (            'status': 'success',) Tj
+T* (            'predicted_demand': predicted_demand,) Tj
+T* (            'mae_bound_lower': max\(0.0, predicted_demand - 91512.21\),) Tj
+T* (            'mae_bound_upper': predicted_demand + 91512.21) Tj
+T* (        }\)) Tj
+T* (  ) Tj
+T* () Tj
+T* (  ) Tj
+T* (    The REST endpoint guarantees sub-25 millisecond round-trip response times, permitting batch evaluation) Tj
+T* (across hundreds of ATMs in bank treasury management portals.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 807.8742519685039269 Td
+(ATM Cash Demand Prediction Using Machine Learning — BCA Project Report) Tj
+ET
+0.89 0.91 0.94 RG
+0.8503937007874016 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 34.0157480314960665 m
+538.5870866141731312 34.0157480314960665 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 22.6771653543306684 Td
+(Soumyadip Porel \([Insert University Roll Number, e.g., 12345678001]\) • [Insert College / Institute Name, e.g., St. Xavier's College / Heritage Institute / University Department]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+489.1470866141731904 22.6771653543306684 Td
+(Page 30 of 39) Tj
+ET
+endstream
+endobj
+63 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 64 0 R
+>>
+endobj
+64 0 obj
+<<
+/Length 2622
+>>
+stream
+1.1338582677165356 w
+0.8 0.84 0.88 RG
+BT
+/F2 10 Tf
+11.5 TL
+0.145 0.388 0.922 rg
+56.6929133858267775 771.0238582677164914 Td
+(CHAPTER 22) Tj
+ET
+BT
+/F10 16 Tf
+18.3999999999999986 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 754.0159842519684616 Td
+(System Workflow) Tj
+ET
+0.8 0.84 0.88 RG
+1.1338582677165356 w
+56.6929133858267775 742.6774015748030706 m
+538.5870866141731312 742.6774015748030706 l
+S
+BT
+/F9 10.5 Tf
+12.0749999999999993 TL
+0.118 0.161 0.231 rg
+56.6929133858267775 720.0002362204724022 Td
+(The system workflow follows a clear pipeline from data ingestion to end-user presentation:) Tj
+T* (  ) Tj
+T* () Tj
+T* (  ) Tj
+T* (    ) Tj
+T* (      End-to-End System Architecture & Dataflow) Tj
+T* (    ) Tj
+T* () Tj
+T* (    ) Tj
+T* (      ) Tj
+T* (        1. Data Switch Ingestion) Tj
+T* (        Raw switch withdrawal logs collected \(570,425 records\)) Tj
+T* (      ) Tj
+T* (            !’) Tj
+T* (      ) Tj
+T* (        2. Feature Pipeline) Tj
+T* (        Lags \(t-1\), 7-day rolling means, calendar decomposition) Tj
+T* (      ) Tj
+T* (            !’) Tj
+T* (      ) Tj
+T* (        3. XGBoost Engine) Tj
+T* (        Gradient boosting regression across 300 boosted trees) Tj
+T* (      ) Tj
+T* (            !’) Tj
+T* (      ) Tj
+T* (        4. Flask Gateway) Tj
+T* (        Joblib deserialization, input validation & JSON serving) Tj
+T* (      ) Tj
+T* (            !’) Tj
+T* (      ) Tj
+T* (        5. Web Client) Tj
+T* (                 P r e d i c t i o n   i n   ¹ ,   b u f f e r   z o n e   &   c a s s e t t e   b r e a k d o w n) Tj
+T* (      ) Tj
+T* (    ) Tj
+T* (  ) Tj
+T* () Tj
+T* (  ) Tj
+T* (    The workflow encapsulates strict separation of concerns: offline batch training computes model weights, while) Tj
+T* (real-time inference is executed statelessly in milliseconds on the web application tier.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 807.8742519685039269 Td
+(ATM Cash Demand Prediction Using Machine Learning — BCA Project Report) Tj
+ET
+0.89 0.91 0.94 RG
+0.8503937007874016 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 34.0157480314960665 m
+538.5870866141731312 34.0157480314960665 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 22.6771653543306684 Td
+(Soumyadip Porel \([Insert University Roll Number, e.g., 12345678001]\) • [Insert College / Institute Name, e.g., St. Xavier's College / Heritage Institute / University Department]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+489.1470866141731904 22.6771653543306684 Td
+(Page 31 of 39) Tj
+ET
+endstream
+endobj
+65 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 66 0 R
+>>
+endobj
+66 0 obj
+<<
+/Length 3340
+>>
+stream
+1.1338582677165356 w
+0.8 0.84 0.88 RG
+BT
+/F2 10 Tf
+11.5 TL
+0.145 0.388 0.922 rg
+56.6929133858267775 771.0238582677164914 Td
+(CHAPTER 23) Tj
+ET
+BT
+/F10 16 Tf
+18.3999999999999986 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 754.0159842519684616 Td
+(User Interface Description) Tj
+ET
+0.8 0.84 0.88 RG
+1.1338582677165356 w
+56.6929133858267775 742.6774015748030706 m
+538.5870866141731312 742.6774015748030706 l
+S
+BT
+/F9 10.5 Tf
+12.0749999999999993 TL
+0.118 0.161 0.231 rg
+56.6929133858267775 720.0002362204724022 Td
+(The user interface was designed with an emphasis on simplicity, responsiveness, and clear financial) Tj
+T* (communication. Built using semantic HTML5, modern CSS3 styling, and JavaScript, the interface allows) Tj
+T* (non-technical bank officers to test and utilize the model without issuing code commands.) Tj
+T* (  ) Tj
+T* () Tj
+T* (  23.1 Interface Components) Tj
+T* (  ) Tj
+T* (    Input Control Panel: Six structured input fields with dynamic client-side validation \(restricting negative) Tj
+T* (currency entries, validating months between 1 and 12, and weekdays between 0 and 6\).) Tj
+T* (    Primary Demand Display: Highlights predicted demand prominently formatted in Indian currency format \(e.g.,) Tj
+T* ( ¹ 4 , 8 5 , 2 5 0 . 0 0 \) .) Tj
+T* (         C o n f i d e n c e   &   R i s k   I n t e r v a l :   V i s u a l l y   r e n d e r s   t h e   ± M A E   t h r e s h o l d   \( ¹ 9 1 , 5 1 2 . 2 1 \) ,   d i s p l a y i n g   t h e   r e c o m m e n d e d) Tj
+T* (low and high replenishment bounds.) Tj
+T* (    Replenishment Cassette Advisor: Translates the raw predicted rupee amount into standard physical currency) Tj
+T* ( c a s s e t t e   c o u n t s   \( e . g . ,   ¹ 5 0 0   a n d   ¹ 1 0 0   n o t e   b u n d l e s \)   t o   a s s i s t   A T M   l o a d e r   l o g i s t i c s   c r e w s .) Tj
+T* (  ) Tj
+T* () Tj
+T* (  ) Tj
+T* (    [Screenshot 1: Web Application Prediction Form Interface]) Tj
+T* (    ) Tj
+T* (      Placeholder for capturing the live Flask frontend submission page showing input controls for ATM ID,) Tj
+T* (calendar parameters, and historical demand fields.) Tj
+T* (    ) Tj
+T* (  ) Tj
+T* () Tj
+T* (  ) Tj
+T* (    [Screenshot 2: Prediction Results Dashboard & Cash Loading Recommendation]) Tj
+T* (    ) Tj
+T* (             P l a c e h o l d e r   f o r   c a p t u r i n g   t h e   c o m p u t e d   d e m a n d   o u t p u t   d i s p l a y i n g   p o i n t   e s t i m a t e   i n   ¹ ,   M A E   t o l e r a n c e   b a n d ,) Tj
+T* (and cassette allocation breakdown.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 807.8742519685039269 Td
+(ATM Cash Demand Prediction Using Machine Learning — BCA Project Report) Tj
+ET
+0.89 0.91 0.94 RG
+0.8503937007874016 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 34.0157480314960665 m
+538.5870866141731312 34.0157480314960665 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 22.6771653543306684 Td
+(Soumyadip Porel \([Insert University Roll Number, e.g., 12345678001]\) • [Insert College / Institute Name, e.g., St. Xavier's College / Heritage Institute / University Department]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+489.1470866141731904 22.6771653543306684 Td
+(Page 32 of 39) Tj
+ET
+endstream
+endobj
+67 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 68 0 R
+>>
+endobj
+68 0 obj
+<<
+/Length 1186
+>>
+stream
+1.1338582677165356 w
+0.8 0.84 0.88 RG
+BT
+/F2 10 Tf
+11.5 TL
+0.145 0.388 0.922 rg
+56.6929133858267775 771.0238582677164914 Td
+(CHAPTER 24) Tj
+ET
+BT
+/F10 16 Tf
+18.3999999999999986 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 754.0159842519684616 Td
+(Testing) Tj
+ET
+0.8 0.84 0.88 RG
+1.1338582677165356 w
+56.6929133858267775 742.6774015748030706 m
+538.5870866141731312 742.6774015748030706 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 807.8742519685039269 Td
+(ATM Cash Demand Prediction Using Machine Learning — BCA Project Report) Tj
+ET
+0.89 0.91 0.94 RG
+0.8503937007874016 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 34.0157480314960665 m
+538.5870866141731312 34.0157480314960665 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 22.6771653543306684 Td
+(Soumyadip Porel \([Insert University Roll Number, e.g., 12345678001]\) • [Insert College / Institute Name, e.g., St. Xavier's College / Heritage Institute / University Department]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+489.1470866141731904 22.6771653543306684 Td
+(Page 33 of 39) Tj
+ET
+endstream
+endobj
+69 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 70 0 R
+>>
+endobj
+70 0 obj
+<<
+/Length 3587
+>>
+stream
+1.1338582677165356 w
+0.8 0.84 0.88 RG
+BT
+/F9 10.5 Tf
+12.0749999999999993 TL
+0.118 0.161 0.231 rg
+56.6929133858267775 771.0238582677164914 Td
+(Software verification and validation were carried out across both the machine learning pipeline and the web) Tj
+T* (deployment layers to ensure functional accuracy, numeric stability, and graceful exception handling.) Tj
+T* (  ) Tj
+T* () Tj
+T* (  24.1 Test Case Matrix and Validation Outcomes) Tj
+T* (  ) Tj
+T* (    ) Tj
+T* (      ) Tj
+T* (        ) Tj
+T* (          Test ID) Tj
+T* (          Test Case Description) Tj
+T* (          Input Conditions) Tj
+T* (          Expected Output) Tj
+T* (          Observed Result) Tj
+T* (          Status) Tj
+T* (        ) Tj
+T* (      ) Tj
+T* (      ) Tj
+T* (        ) Tj
+T* (          TC-01) Tj
+T* (          Standard Midweek Prediction) Tj
+T* (                     A T M   1 0 2 ,   W e d   \( 2 \) ,   O c t   \( 1 0 \) ,   P r e v :   ¹ 3 , 5 0 , 0 0 0 ,   7 D - A v g :   ¹ 3 , 4 0 , 0 0 0 ,   W o r k D a y :   1) Tj
+T* (                     P o s i t i v e   d e m a n d   c l o s e   t o   r o l l i n g   b a s e l i n e   \( ~ ¹ 3 . 4 L   -   ¹ 3 . 8 L \)) Tj
+T* (                     R e t u r n e d   ¹ 3 , 6 2 , 4 5 0 . 0 0) Tj
+T* (          PASS) Tj
+T* (        ) Tj
+T* (        ) Tj
+T* (          TC-02) Tj
+T* (          Holiday Weekend Surge) Tj
+T* (                     A T M   1 0 2 ,   S u n   \( 6 \) ,   N o v   \( 1 1 \) ,   P r e v :   ¹ 5 , 1 0 , 0 0 0 ,   7 D - A v g :   ¹ 4 , 2 0 , 0 0 0 ,   W o r k D a y :   0) Tj
+T* (          Elevated predicted demand reflecting weekend spending) Tj
+T* (                     R e t u r n e d   ¹ 5 , 3 8 , 1 2 0 . 0 0) Tj
+T* (          PASS) Tj
+T* (        ) Tj
+T* (        ) Tj
+T* (          TC-03) Tj
+T* (          Zero Demand Baseline) Tj
+T* (                     P r e v :   ¹ 0 ,   7 D - A v g :   ¹ 0 ,   W o r k D a y :   0) Tj
+T* (          Low non-negative estimate; no negative currency output) Tj
+T* (                     R e t u r n e d   ¹ 1 8 , 4 0 0 . 0 0   \( m i n   b o u n d a r y   p r e s e r v e d \)) Tj
+T* (          PASS) Tj
+T* (        ) Tj
+T* (        ) Tj
+T* (          TC-04) Tj
+T* (          Input Range Validation) Tj
+T* (          Month = 15 \(Invalid\), Weekday = -1) Tj
+T* (          HTTP 400 Bad Request with descriptive warning) Tj
+T* (          Field highlighted; submission rejected gracefully) Tj
+T* (          PASS) Tj
+T* (        ) Tj
+T* (        ) Tj
+T* (          TC-05) Tj
+T* (          Model Generalization Test) Tj
+T* (          Full batch evaluation over 114,085 hold-out rows) Tj
+T* (                     C o n v e r g e n c e   w i t h o u t   N a N   p r e d i c t i o n s ;   M A E   ¹ 9 1 , 5 1 2 . 2 1) Tj
+T* (          Zero NaN values; computed exact metrics) Tj
+T* (          PASS) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 807.8742519685039269 Td
+(ATM Cash Demand Prediction Using Machine Learning — BCA Project Report) Tj
+ET
+0.89 0.91 0.94 RG
+0.8503937007874016 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 34.0157480314960665 m
+538.5870866141731312 34.0157480314960665 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 22.6771653543306684 Td
+(Soumyadip Porel \([Insert University Roll Number, e.g., 12345678001]\) • [Insert College / Institute Name, e.g., St. Xavier's College / Heritage Institute / University Department]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+489.1470866141731904 22.6771653543306684 Td
+(Page 34 of 39) Tj
+ET
+endstream
+endobj
+71 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 72 0 R
+>>
+endobj
+72 0 obj
+<<
+/Length 2790
+>>
+stream
+1.1338582677165356 w
+0.8 0.84 0.88 RG
+BT
+/F2 10 Tf
+11.5 TL
+0.145 0.388 0.922 rg
+56.6929133858267775 771.0238582677164914 Td
+(CHAPTER 25) Tj
+ET
+BT
+/F10 16 Tf
+18.3999999999999986 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 754.0159842519684616 Td
+(Advantages) Tj
+ET
+0.8 0.84 0.88 RG
+1.1338582677165356 w
+56.6929133858267775 742.6774015748030706 m
+538.5870866141731312 742.6774015748030706 l
+S
+BT
+/F9 10.5 Tf
+12.0749999999999993 TL
+0.118 0.161 0.231 rg
+56.6929133858267775 720.0002362204724022 Td
+(The implementation of the XGBoost-based cash demand forecasting system offers substantial financial and) Tj
+T* (operational benefits for commercial banking institutions:) Tj
+T* (  ) Tj
+T* () Tj
+T* (  ) Tj
+T* (    ) Tj
+T* (      Reduction in Idle Capital Cost: By replacing maximum-capacity blind loading with tailored predictions, banks) Tj
+T* (can liberate crores of rupees in unproductively stranded liquidity, returning funds to overnight interest-bearing) Tj
+T* (interbank markets.) Tj
+T* (    ) Tj
+T* (    ) Tj
+T* (      Drastic Reduction in Cash-Out Incidents: Proactive identification of rising demand trends \(via 7-day rolling) Tj
+T* (momentum and weekday indexing\) prevents machines from running dry during peak weekend shopping periods.) Tj
+T* (    ) Tj
+T* (    ) Tj
+T* (      Optimized Armored Transit Logistics: Armored vehicle dispatch routes can be grouped by urgency and) Tj
+T* (predicted depletion times, eliminating expensive emergency off-schedule CIT runs.) Tj
+T* (    ) Tj
+T* (    ) Tj
+T* (      Enhanced Customer Trust and Retention: Reliable ATM availability reinforces consumer confidence in retail) Tj
+T* (banking services, reducing customer defection to competing banks.) Tj
+T* (    ) Tj
+T* (    ) Tj
+T* (      Lightweight and Deployable: The system requires no exotic neural network accelerators or GPU clusters at) Tj
+T* (runtime; the serialized XGBoost model executes in milliseconds on standard cloud virtual machines or low-cost) Tj
+T* (on-premise hardware.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 807.8742519685039269 Td
+(ATM Cash Demand Prediction Using Machine Learning — BCA Project Report) Tj
+ET
+0.89 0.91 0.94 RG
+0.8503937007874016 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 34.0157480314960665 m
+538.5870866141731312 34.0157480314960665 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 22.6771653543306684 Td
+(Soumyadip Porel \([Insert University Roll Number, e.g., 12345678001]\) • [Insert College / Institute Name, e.g., St. Xavier's College / Heritage Institute / University Department]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+489.1470866141731904 22.6771653543306684 Td
+(Page 35 of 39) Tj
+ET
+endstream
+endobj
+73 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 74 0 R
+>>
+endobj
+74 0 obj
+<<
+/Length 2844
+>>
+stream
+1.1338582677165356 w
+0.8 0.84 0.88 RG
+BT
+/F2 10 Tf
+11.5 TL
+0.145 0.388 0.922 rg
+56.6929133858267775 771.0238582677164914 Td
+(CHAPTER 26) Tj
+ET
+BT
+/F10 16 Tf
+18.3999999999999986 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 754.0159842519684616 Td
+(Limitations) Tj
+ET
+0.8 0.84 0.88 RG
+1.1338582677165356 w
+56.6929133858267775 742.6774015748030706 m
+538.5870866141731312 742.6774015748030706 l
+S
+BT
+/F9 10.5 Tf
+12.0749999999999993 TL
+0.118 0.161 0.231 rg
+56.6929133858267775 720.0002362204724022 Td
+(In keeping with rigorous academic integrity, several operational and technical constraints must be recognized:) Tj
+T* (  ) Tj
+T* () Tj
+T* (  ) Tj
+T* (    ) Tj
+T* (      Moderate Overall Predictive Power \(R² = 0.4703\): The model explains roughly 47% of variance. The) Tj
+T* (remaining 53% is governed by exogenous random factors \(weather conditions, nearby competitor ATM failures,) Tj
+T* (local political rallies, or spontaneous community events\) that are fundamentally absent from the six tabular) Tj
+T* (features.) Tj
+T* (    ) Tj
+T* (    ) Tj
+T* (      Elevated Errors on Extreme Surge Tail Events: As demonstrated by the discrepancy between MAE) Tj
+T* ( \( ¹ 9 1 , 5 1 2 . 2 1 \)   a n d   R M S E   \( ¹ 1 5 8 , 9 0 2 . 7 8 \) ,   t h e   m o d e l   u n d e r e s t i m a t e s   e x t r e m e   p o s i t i v e   s p i k e s   w h e n   d e m a n d   s u r g e s) Tj
+T* (four-fold on major festival eves.) Tj
+T* (    ) Tj
+T* (    ) Tj
+T* (      Cold Start for Newly Commissioned ATMs: Calculating the Previous 7-Day Average Demand requires at least) Tj
+T* (7 continuous days of historical operational data. Newly inaugurated kiosks cannot be evaluated until their initial) Tj
+T* (burn-in phase is complete.) Tj
+T* (    ) Tj
+T* (    ) Tj
+T* (      Denomination Inelasticity: The current target variable models aggregate rupee amount rather than predicting) Tj
+T* ( i n d i v i d u a l   n o t e   d e n o m i n a t i o n   p r e f e r e n c e   \( e . g . ,   ¹ 5 0 0   n o t e s   v s .   ¹ 2 0 0   v s .   ¹ 1 0 0   n o t e s \) .) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 807.8742519685039269 Td
+(ATM Cash Demand Prediction Using Machine Learning — BCA Project Report) Tj
+ET
+0.89 0.91 0.94 RG
+0.8503937007874016 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 34.0157480314960665 m
+538.5870866141731312 34.0157480314960665 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 22.6771653543306684 Td
+(Soumyadip Porel \([Insert University Roll Number, e.g., 12345678001]\) • [Insert College / Institute Name, e.g., St. Xavier's College / Heritage Institute / University Department]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+489.1470866141731904 22.6771653543306684 Td
+(Page 36 of 39) Tj
+ET
+endstream
+endobj
+75 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 76 0 R
+>>
+endobj
+76 0 obj
+<<
+/Length 2715
+>>
+stream
+1.1338582677165356 w
+0.8 0.84 0.88 RG
+BT
+/F2 10 Tf
+11.5 TL
+0.145 0.388 0.922 rg
+56.6929133858267775 771.0238582677164914 Td
+(CHAPTER 27) Tj
+ET
+BT
+/F10 16 Tf
+18.3999999999999986 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 754.0159842519684616 Td
+(Future Scope) Tj
+ET
+0.8 0.84 0.88 RG
+1.1338582677165356 w
+56.6929133858267775 742.6774015748030706 m
+538.5870866141731312 742.6774015748030706 l
+S
+BT
+/F9 10.5 Tf
+12.0749999999999993 TL
+0.118 0.161 0.231 rg
+56.6929133858267775 720.0002362204724022 Td
+(This project establishes a solid foundation for future research and engineering enhancements:) Tj
+T* (  ) Tj
+T* () Tj
+T* (  ) Tj
+T* (    ) Tj
+T* (      Integration of Geospatial and External Indicators: Incorporating real-time weather feeds \(precipitation,) Tj
+T* (extreme heat\), hyper-local festival calendars, and public transit schedules to capture sudden footfall variations.) Tj
+T* (    ) Tj
+T* (    ) Tj
+T* (      Multi-Output Denomination Forecasting: Expanding the regression target from a single total rupee figure to a) Tj
+T* ( v e c t o r   p r e d i c t i n g   c a s s e t t e   r e q u i r e m e n t s   f o r   i n d i v i d u a l   d e n o m i n a t i o n s   \( ¹ 1 0 0 ,   ¹ 2 0 0 ,   ¹ 5 0 0 \) .) Tj
+T* (    ) Tj
+T* (    ) Tj
+T* (      Deep Learning Hybrid Architectures: Exploring hybrid models combining XGBoost with Long Short-Term) Tj
+T* (Memory \(LSTM\) or Temporal Fusion Transformers \(TFT\) to extract longer multi-month periodicities.) Tj
+T* (    ) Tj
+T* (    ) Tj
+T* (      Automated Route Optimization: Coupling the demand prediction microservice with vehicle routing problem) Tj
+T* (\(VRP\) algorithms to automatically generate cost-minimized armored car route schedules.) Tj
+T* (    ) Tj
+T* (    ) Tj
+T* (      Online Continual Learning: Implementing automated weekly retraining pipelines to dynamically adapt model) Tj
+T* (weights to inflation and changing local demographics.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 807.8742519685039269 Td
+(ATM Cash Demand Prediction Using Machine Learning — BCA Project Report) Tj
+ET
+0.89 0.91 0.94 RG
+0.8503937007874016 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 34.0157480314960665 m
+538.5870866141731312 34.0157480314960665 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 22.6771653543306684 Td
+(Soumyadip Porel \([Insert University Roll Number, e.g., 12345678001]\) • [Insert College / Institute Name, e.g., St. Xavier's College / Heritage Institute / University Department]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+489.1470866141731904 22.6771653543306684 Td
+(Page 37 of 39) Tj
+ET
+endstream
+endobj
+77 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 78 0 R
+>>
+endobj
+78 0 obj
+<<
+/Length 3050
+>>
+stream
+1.1338582677165356 w
+0.8 0.84 0.88 RG
+BT
+/F2 10 Tf
+11.5 TL
+0.145 0.388 0.922 rg
+56.6929133858267775 771.0238582677164914 Td
+(CHAPTER 28) Tj
+ET
+BT
+/F10 16 Tf
+18.3999999999999986 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 754.0159842519684616 Td
+(Conclusion) Tj
+ET
+0.8 0.84 0.88 RG
+1.1338582677165356 w
+56.6929133858267775 742.6774015748030706 m
+538.5870866141731312 742.6774015748030706 l
+S
+BT
+/F9 10.5 Tf
+12.0749999999999993 TL
+0.118 0.161 0.231 rg
+56.6929133858267775 720.0002362204724022 Td
+(The project entitled "ATM Cash Demand Prediction Using Machine Learning" successfully develops, trains,) Tj
+T* (validates, and deploys a robust machine learning solution addressing one of the most critical operational) Tj
+T* (challenges in retail bank cash management.) Tj
+T* (  ) Tj
+T* () Tj
+T* (  ) Tj
+T* (    By transforming 570,425 transaction records into six informative temporal, situational, and rolling features, an) Tj
+T* (XGBoost Regressor was trained on 456,340 observations and rigorously evaluated across 114,085 hold-out) Tj
+T* ( i n s t a n c e s .   T h e   e v a l u a t i o n   y i e l d e d   a   M e a n   A b s o l u t e   E r r o r   o f   ¹ 9 1 , 5 1 2 . 2 1 ,   a   R o o t   M e a n   S q u a r e d   E r r o r   o f) Tj
+T* ( ¹ 1 5 8 , 9 0 2 . 7 8 ,   a n d   a   c o e f f i c i e n t   o f   d e t e r m i n a t i o n   \( R ²   s c o r e \)   o f   0 . 4 7 0 3 .) Tj
+T* (  ) Tj
+T* () Tj
+T* (  ) Tj
+T* (    The empirical results illustrate that while extreme festive demand spikes present non-trivial forecasting) Tj
+T* (challenges that widen quadratic errors \(RMSE\), the system maintains stable and dependable predictions across) Tj
+T* (normal business cycles. ) Tj
+T* (  ) Tj
+T* () Tj
+T* (  ) Tj
+T* (    Finally, the deployment of this model via a responsive Flask web application proves the practical viability of) Tj
+T* (the research, bridging academic machine learning algorithms with day-to-day banking treasury operations. The) Tj
+T* (project satisfies all requirements for the final-year Bachelor of Computer Applications \(BCA\) curriculum under) Tj
+T* (the Department of Computer Applications, [Insert College / Institute Name, e.g., St. Xavier's College / Heritage) Tj
+T* (Institute / University Department].) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 807.8742519685039269 Td
+(ATM Cash Demand Prediction Using Machine Learning — BCA Project Report) Tj
+ET
+0.89 0.91 0.94 RG
+0.8503937007874016 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 34.0157480314960665 m
+538.5870866141731312 34.0157480314960665 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 22.6771653543306684 Td
+(Soumyadip Porel \([Insert University Roll Number, e.g., 12345678001]\) • [Insert College / Institute Name, e.g., St. Xavier's College / Heritage Institute / University Department]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+489.1470866141731904 22.6771653543306684 Td
+(Page 38 of 39) Tj
+ET
+endstream
+endobj
+79 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 80 0 R
+>>
+endobj
+80 0 obj
+<<
+/Length 3329
+>>
+stream
+1.1338582677165356 w
+0.8 0.84 0.88 RG
+BT
+/F2 10 Tf
+11.5 TL
+0.145 0.388 0.922 rg
+56.6929133858267775 771.0238582677164914 Td
+(CHAPTER 29) Tj
+ET
+BT
+/F10 16 Tf
+18.3999999999999986 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 754.0159842519684616 Td
+(References) Tj
+ET
+0.8 0.84 0.88 RG
+1.1338582677165356 w
+56.6929133858267775 742.6774015748030706 m
+538.5870866141731312 742.6774015748030706 l
+S
+BT
+/F9 10.5 Tf
+12.0749999999999993 TL
+0.118 0.161 0.231 rg
+56.6929133858267775 720.0002362204724022 Td
+(Academic & Technical Literature) Tj
+T* () Tj
+T* (  ) Tj
+T* (    ) Tj
+T* (      Chen, T., & Guestrin, C. \(2016\). "XGBoost: A Scalable Tree Boosting System." Proceedings of the 22nd) Tj
+T* (ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, pp. 785–794.) Tj
+T* (    ) Tj
+T* (    ) Tj
+T* (      Simutis, R., Dilys, D., & Bastina, L. \(2007\). "Cash Demand Forecasting for ATMs Using Neural Networks) Tj
+T* (and Support Vector Regression." International Journal of Computational Intelligence, 4\(4\), pp. 416–421.) Tj
+T* (    ) Tj
+T* (    ) Tj
+T* (      Van der Westhuizen, J., & Hoffman, A. J. \(2014\). "Automated Teller Machine Cash Management Using) Tj
+T* (Evolutionary Multi-Objective Optimization." IEEE International Conference on Industrial Engineering and) Tj
+T* (Engineering Management \(IEEM\), pp. 1121–1125.) Tj
+T* (    ) Tj
+T* (    ) Tj
+T* (      Teddy, S. D., & Ng, S. K. \(2011\). "Forecasting ATM Cash Demand Using a Localized Extended Cerebellar) Tj
+T* (Model Articulation Controller." International Journal of Forecasting, 27\(4\), pp. 1011–1025.) Tj
+T* (    ) Tj
+T* (    ) Tj
+T* (      McKinney, W. \(2010\). "Data Structures for Statistical Computing in Python." Proceedings of the 9th Python in) Tj
+T* (Science Conference, pp. 56–61.) Tj
+T* (    ) Tj
+T* (    ) Tj
+T* (      Pedregosa, F., et al. \(2011\). "Scikit-learn: Machine Learning in Python." Journal of Machine Learning) Tj
+T* (Research \(JMLR\), 12, pp. 2825–2830.) Tj
+T* (    ) Tj
+T* (    ) Tj
+T* (      Grinberg, M. \(2018\). Flask Web Development: Developing Web Applications with Python \(2nd ed.\). O'Reilly) Tj
+T* (Media.) Tj
+T* (    ) Tj
+T* (    ) Tj
+T* (      Reserve Bank of India \(RBI\). \(2020\). "Operating Guidelines on Framework for Cash Replenishment in) Tj
+T* (Automated Teller Machines." Reserve Bank of India Regulatory Bulletins.) Tj
+T* (    ) Tj
+T* (    ) Tj
+T* (      Hyndman, R. J., & Athanasopoulos, G. \(2018\). Forecasting: Principles and Practice \(2nd ed.\). OTexts:) Tj
+T* (Melbourne, Australia.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 807.8742519685039269 Td
+(ATM Cash Demand Prediction Using Machine Learning — BCA Project Report) Tj
+ET
+0.89 0.91 0.94 RG
+0.8503937007874016 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 34.0157480314960665 m
+538.5870866141731312 34.0157480314960665 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 22.6771653543306684 Td
+(Soumyadip Porel \([Insert University Roll Number, e.g., 12345678001]\) • [Insert College / Institute Name, e.g., St. Xavier's College / Heritage Institute / University Department]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+489.1470866141731904 22.6771653543306684 Td
+(Page 39 of 39) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R 31 0 R 33 0 R 35 0 R 37 0 R 39 0 R 41 0 R 43 0 R 45 0 R 47 0 R 49 0 R 51 0 R 53 0 R 55 0 R 57 0 R 59 0 R 61 0 R 63 0 R 65 0 R 67 0 R 69 0 R 71 0 R 73 0 R 75 0 R 77 0 R 79 0 R ]
+/Count 39
+>>
+endobj
+81 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+82 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+83 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+84 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+85 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+86 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+87 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+88 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+89 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+90 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+91 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+92 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+93 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+94 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 81 0 R
+/F2 82 0 R
+/F3 83 0 R
+/F4 84 0 R
+/F5 85 0 R
+/F6 86 0 R
+/F7 87 0 R
+/F8 88 0 R
+/F9 89 0 R
+/F10 90 0 R
+/F11 91 0 R
+/F12 92 0 R
+/F13 93 0 R
+/F14 94 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+95 0 obj
+<<
+/Producer (jsPDF 4.2.1)
+/CreationDate (D:20261002232118+05'30')
+>>
+endobj
+96 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 97
+0000000000 65535 f 
+0000112379 00000 n 
+0000114465 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000003196 00000 n 
+0000003333 00000 n 
+0000006603 00000 n 
+0000006740 00000 n 
+0000010029 00000 n 
+0000010167 00000 n 
+0000013472 00000 n 
+0000013611 00000 n 
+0000017891 00000 n 
+0000018030 00000 n 
+0000021846 00000 n 
+0000021985 00000 n 
+0000025039 00000 n 
+0000025178 00000 n 
+0000026418 00000 n 
+0000026557 00000 n 
+0000029226 00000 n 
+0000029365 00000 n 
+0000030611 00000 n 
+0000030750 00000 n 
+0000033849 00000 n 
+0000033988 00000 n 
+0000036743 00000 n 
+0000036882 00000 n 
+0000038133 00000 n 
+0000038272 00000 n 
+0000040793 00000 n 
+0000040932 00000 n 
+0000042181 00000 n 
+0000042320 00000 n 
+0000045689 00000 n 
+0000045828 00000 n 
+0000047079 00000 n 
+0000047218 00000 n 
+0000051078 00000 n 
+0000051217 00000 n 
+0000054063 00000 n 
+0000054202 00000 n 
+0000055453 00000 n 
+0000055592 00000 n 
+0000058588 00000 n 
+0000058727 00000 n 
+0000061205 00000 n 
+0000061344 00000 n 
+0000064939 00000 n 
+0000065078 00000 n 
+0000066324 00000 n 
+0000066463 00000 n 
+0000069527 00000 n 
+0000069666 00000 n 
+0000072715 00000 n 
+0000072854 00000 n 
+0000074109 00000 n 
+0000074248 00000 n 
+0000080172 00000 n 
+0000080311 00000 n 
+0000081564 00000 n 
+0000081703 00000 n 
+0000085188 00000 n 
+0000085327 00000 n 
+0000088002 00000 n 
+0000088141 00000 n 
+0000091534 00000 n 
+0000091673 00000 n 
+0000092912 00000 n 
+0000093051 00000 n 
+0000096691 00000 n 
+0000096830 00000 n 
+0000099673 00000 n 
+0000099812 00000 n 
+0000102709 00000 n 
+0000102848 00000 n 
+0000105616 00000 n 
+0000105755 00000 n 
+0000108858 00000 n 
+0000108997 00000 n 
+0000112700 00000 n 
+0000112826 00000 n 
+0000112957 00000 n 
+0000113091 00000 n 
+0000113229 00000 n 
+0000113353 00000 n 
+0000113482 00000 n 
+0000113614 00000 n 
+0000113750 00000 n 
+0000113878 00000 n 
+0000114005 00000 n 
+0000114134 00000 n 
+0000114267 00000 n 
+0000114369 00000 n 
+0000114718 00000 n 
+0000114804 00000 n 
+trailer
+<<
+/Size 97
+/Root 96 0 R
+/Info 95 0 R
+/ID [ <41534CBD0975FC292E1A83054ABFD95F> <41534CBD0975FC292E1A83054ABFD95F> ]
+>>
+startxref
+114908
+%%EOF
